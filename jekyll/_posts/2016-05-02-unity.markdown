@@ -1,0 +1,15 @@
+---
+layout: halfpage
+title:  "Warsztaty z Unity 3D"
+date:   2016-05-01 12:14:29
+post_img_url: /images/unity.png
+language: pl
+---
+Kto chce zbudować własną wersję Bombermana ręka do góry! Już w czwartek o 14.30 zapraszamy do KSI na kolejne warsztaty z Unity - całkowicie od podstaw. Jedyne wymagania to komputer z zainstalowanym Unity i chęć nauki - w razie problemów z przygotowaniem dajcie znać - pomożemy!
+
+Do zobaczenia!
+
+Przydatne linki:
+- Unity: [http://unity3d.com/get-unity/download?ref=personal](http://unity3d.com/get-unity/download?ref=personal)
+- pliki z poprzednich zajęć: [https://www.dropbox.com/sh/x4bvn61oub81bsb/AAAENLhDYuIky3WveLSEYkVia?dl=0](https://www.dropbox.com/sh/x4bvn61oub81bsb/AAAENLhDYuIky3WveLSEYkVia?dl=0)
+- materiały part 2: [https://www.dropbox.com/sh/x4bvn61oub81bsb/AAAENLhDYuIky3WveLSEYkVia?dl=0](https://www.dropbox.com/sh/x4bvn61oub81bsb/AAAENLhDYuIky3WveLSEYkVia?dl=0)

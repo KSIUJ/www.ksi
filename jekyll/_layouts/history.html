@@ -19,7 +19,7 @@
 							<div class="wrapper">
 								<div class="inner">
 
-									{% if page.post_img_url != "" %}
+									{% if page.post_img_url!="": %}
 										<p><img src="{{page.post_img_url}}" id="post_img" /></p>
 									{% endif; %}
 
@@ -34,4 +34,5 @@
 					{% include footer.html %}
 
 			</div>
+
 {% include skel_end.html %}

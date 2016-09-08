@@ -1,26 +1,4 @@
-<!DOCTYPE HTML>
-<!--
-	Solid State by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-	Adapted for KSI by KSI - ksi.ii.uj.edu.pl
--->
-<html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:fb="http://ogp.me/ns/fb#">
-	<head>
-		<title>KSI UJ</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="/css/main.css" />
-		<!--[if lte IE 9]><link rel="stylesheet" href="/css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie8.css" /><![endif]-->
-		<meta property="og:image" content="/images/logo_for_fb.png" />
-		<link rel="icon" type="image/png" href="/images/favicon/favicon-32x32.png" sizes="32x32" />
-		<link rel="icon" type="image/png" href="/images/favicon/favicon-16x16.png" sizes="16x16" />
-	</head>
-	<body>
+{% include skel_begin.html %}
 
 		<!-- Page Wrapper -->
 			<div id="page-wrapper">
@@ -75,7 +53,7 @@
 
 						<section id="dydaktyka" class="wrapper spotlight alt style3">
 							<div class="inner">
-								<a href="#" class="image"><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/12654603_1102916889742079_8854546559629779876_n.jpg?oh=c00c4e047276a44daa47ac4389a065a2&oe=57B032DF&__gda__=1470767247_0208d66d40c0c9bdeffe5ded24d9c7b1" alt="" /></a>
+								<a href="#" class="image"><img src="/images/ucz-sie-z-ksi.jpg" alt="" /></a>
 								<div class="content">
 									<h2 class="major">{% t 'section_didactics.title' %}</h2>
 									<p>{% t 'section_didactics.text' %}</p>
@@ -86,7 +64,7 @@
 
 						<section id="serwerownia" class="wrapper spotlight style1">
 							<div class="inner">
-								<a href="#" class="image"><img src="https://scontent-waw1-1.cdninstagram.com/t51.2885-15/e15/12797660_1109017662455508_891323330_n.jpg?ig_cache_key=MTIwMDE3OTE0NjQ1MjYxNDU1Mg==.2" alt="" /></a>
+								<a href="#" class="image"><img src="/images/serwerownia.jpg" alt="" /></a>
 								<div class="content">
 									<h2 class="major">{% t 'section_server_room.title' %}</h2>
 									<p>{% t 'section_server_room.text' %}</p>
@@ -112,20 +90,20 @@
 								<h2 class="major">{% t 'section_news.title' %}</h2>
 								<p>{% t 'section_news.text' %}</p>
 								<section class="features">
-								{% for post in site.posts: %}
-									<article>	
-										{% if post.post_img_url!="": %}
+								{% for post in site.posts %}
+									<article>
+										{% if post.post_img_url != "" %}
 								    		<a href="{{ post.url }}" class="image"><img src="{{ post.post_img_url }}" alt="" /></a>
 								    	{% endif; %}
 										<h3 class="major">{{ post.title }}</h3>
 										{{ post.excerpt }}
-										<a href="{{ post.url }}" class="special">{% t 'read_more' %}</a>		
+										<a href="{{ post.url }}" class="special">{% t 'read_more' %}</a>
 								    </article>
 								    {% if forloop.index == 4 %}
 									{% break %}
 								    {% endif %}
 								{% endfor %}
-								</section>	
+								</section>
 								<a href="/news/" class="special">{% t 'section_news.more' %}</a>
 							</div>
 						</section>
@@ -135,12 +113,4 @@
 
 			</div>
 
-		<!-- Scripts -->
-			<script src="/js/skel.min.js"></script>
-			<script src="/js/jquery.min.js"></script>
-			<script src="/js/jquery.scrollex.min.js"></script>
-			<script src="/js/util.js"></script>
-			<!--[if lte IE 8]><script src="/js/ie/respond.min.js"></script><![endif]-->
-			<script src="/js/main.js"></script>
-	</body>
-</html>
+{% include skel_end.html %}
