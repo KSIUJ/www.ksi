@@ -54,3 +54,8 @@ Ludzie KSI
 /photos/pages/about/nerdy.jpg
 /photos/pages/about/WP_20150914_17_30_57_Pro.jpg
 {% endgallery %}
+
+Dokumenty
+------
+- [Statut Koła Studentów Informatyki UJ](/files/statut2014.pdf)
+- [Regulamin Serwerowni KSI UJ](/files/regulaminserwerowni.pdf)
