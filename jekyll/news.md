@@ -15,9 +15,9 @@ Konferencje, warsztaty, wykłady, najnowsze przedsięwzięcia - w tej zakładce 
 		{% if post.post_img_url != "" %}
     		<a href="{{ post.url }}" class="image"><img src="{{ post.post_img_url }}" alt="" /></a>
     	{% endif; %}
-		<h3 class="major">{{ post.title }}</h3>
+		<h3 class="major">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</h3>
 		{{ post.excerpt }}
-		<a href="{{ post.url }}" class="special">Czytaj więcej</a>		
+		<a href="{{ post.url }}" class="special">Czytaj więcej</a>	
     </article>
 {% endfor %}
 </section>

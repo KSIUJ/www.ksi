@@ -13,7 +13,9 @@ Bierzemy udział w organizacji wydarzeń, takich jak:
 - Studencki Festiwal Informatyczny ­- największa studencka konferencja IT w Polsce, organizowana od 2005 roku;
 - Konferencja IT Academic Day (Microsoft), Facebook tech talk, Google tech talk -­ spotkania z pracownikami największych firm IT na świecie, połączone z pizza party ;).
 - Dzień Wydziału, Festiwal Nauki, Małopolska Noc Naukowców ­- gdzie prowadzimy popularnonaukowe warsztaty i pokazy skierowane głównie do uczniów.
-- Rozwijamy pomysły i projekty naukowe w ramach Centrum Projektowego:
+
+Rozwijamy pomysły i projekty naukowe w ramach Centrum Projektowego:
+
 - w ramach naszej serwerowni umożliwiamy postawienie własnego serwera (fizycznego lub wirtualnego), otrzymanie zewnętrznego IP z puli Koła i odblokowanych przez adminów wydziałowych potrzebnych portów;
 - posiadamy drukarkę 3D (zbudowaną przez naszych członków!);
 - tworzymy własny system dostępu do siedziby Koła z użyciem zamka elektronicznego, wymagający od członka tylko legitymacji studenckiej;
@@ -57,5 +59,5 @@ Ludzie KSI
 
 Dokumenty
 ------
-- [Statut Koła Studentów Informatyki UJ](/files/statut2014.pdf)
+- [Statut Koła Studentów Informatyki UJ](/files/statut2015.pdf)
 - [Regulamin Serwerowni KSI UJ](/files/regulaminserwerowni.pdf)
