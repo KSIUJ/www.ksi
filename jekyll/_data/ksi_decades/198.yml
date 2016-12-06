@@ -1,0 +1,57 @@
+name: 1980
+years:
+  - year: 1980
+    header: Szkolimy - siebie i innych
+    body: W dalszym ciągu koncentrujemy się na nauce - rok upływa nam na licznych seminariach, referatach, szkoleniach.
+    zarzad_info: true
+    prezes:   Krzysztof Buszko
+    vice:     Janusz Wnęk
+  - year: 1981
+    header:
+    body:
+    zarzad_info: true
+    prezes:     Marek Kubowicz
+    vice:       Wojciech Winiarski
+    skarbnik:   Józef Gajda
+    sekretarz:  Małgorzata Stachowicz
+    rewizyjna:  Wojciech Burczyk, Krzysztof Buszko, Kazimierz Jojczyk
+  - year: 1982
+    header: Pierwszy rok z biblioteczką
+    body: Rok upływa nam pod znakiem realizacji systemu operacyjnego MINOS. Formuje się też kołowa biblioteczka.
+    zarzad_info: true
+    prezes:     Marek Kubowicz
+    vice:       Grzegorz Kuś
+    skarbnik:   Wojciech Winiarski
+    sekretarz:  Paweł Jurczak
+    rewizyjna:  Wojciech Burczyk, Józef Gajda, Kazimierz Jojczyk
+  - year: 1983
+    header: 
+    body: Utworzenie sekcji SM, Riad i Odry, kurs obsługi MOPu. Udział w INFOSEMie oraz Wiosennej Radzie Koordynacyjnej Naukowych Kół Informatyki, Ogólnopolskiej Szkole Letniej Informatyki. Organizujemy też Konferencję Środowiskową Użytkowników Minikomputera Mera-400 oraz seminarium wyjazdowe w Rabce
+    zarzad_info: true
+    prezes:     Paweł Jurczak
+    vice:       Bogusław Hutniczak
+    skarbnik:   Wojciech Winiarski
+    sekretarz:  Małgorzata Niedbała
+    biblioteka: Marta Kwiatkowska, Leszek Śmigielski
+    gospodarz:  Marek Kubowicz
+    rewizyjna:  Wojciech Burczyk, Józef Gajda, Aleksander Piwkowski
+  - year: 1984
+    header: Nie samym kodem żyje człowiek
+    body: Po raz pierwszy odbywa się Herbatka z NKI. Rok żegnamy we wspaniałej atmosferze na spotkaniu przedsylwestrowym Udział w Infosemie, Marek Kubowicz zdobywa zaszczytne 2. miejsce na Ogólnopolskim Seminarium Rady Kół Naukowych Informatyki Infosem w sekcji Oprogramowanie i grafika - zostaje również okrzyknięty najlepszym mówcą konferencji. Szkoła letnia, seminarium wyjazdowe w Rabce, sylwester kołowy, szkoła zimowa.
+    zarzad_info: true
+    prezes:     Bogusław Hutniczak
+    vice:       Antoni Tompolski
+    skarbnik:   Aleksander Piwkowski
+    sekretarz:  Małgorzata Niedbała
+    biblioteka: Wojciech Winiarski
+    rewizyjna:  Marek Kubowicz, Józef Gajda
+  - year: 1987
+    header: Ponowna rejestracja NKI
+    body:
+    zarzad_info: true
+    prezes:     Małgorzata Niedbała
+    vice:       Beata Michalska
+    skarbnik:   Jacek Połczyński
+    sekretarz:  Rafał Kawa
+    biblioteka: Tomasz Kunicki
+    rewizyjna:  Józef Gajda , Andrzej Knapczyk, Jacek Królik

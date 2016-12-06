@@ -1,0 +1,42 @@
+name: 1970
+years:
+  - year: 1973
+    header: Pierwsze słuchy...
+    body: W Kole Matematyków Studentów im. prof. S. Zaremby powstaje Sekcja Informatyki
+    zarzad_info: false
+  - year: 1975
+    header:
+    body: Referat "Struktury listowe danych" Kazimierza Jojczyka (kierownika sekcji Informatyki w KMS) zdobywa 2. miejsce na Ogólnopolskim Seminarium Kół Naukowych Informatyki INFOSEM.
+    zarzad_info: false
+  - year: 1976
+    header: Już oficjalnie - jesteśmy Kołem Naukowym!
+    body: Decyzją Rady Uczelnianej Uniwersytetu Jagiellońskiego Sekcja Informatyki zostaje podniesiona do rangi Koła Naukowego. Bierzemy też udział w konferencji INFOSEM.
+    zarzad_info: true
+    prezes:   Kazimierz Jojczyk
+  - year: 1977
+    header: Rozkręcamy się na dobre
+    body: Mimo młodego wieku nasze Koło działa niezwykle aktywnie - organizuje cykl szkoleń związanych z oprogramowaniem podstawowym maszyn cyfrowych, cykl referatów dla studentów fizyki dotyczących podstaw UPDATE. Powstaje również sekcja STAT - zajmująca się maszynową dokumentacją Koła. W tym roku po raz pierwszy odbyła się jesienna sesja wyjazdowa Koła. Nie zapominamy też o działalności naukowej - warsztatach, szkoleniach i wykładach (w szkole wiosennej koła udział bierze ponad 30 osób, a w Przedszkolu NKI - ponad 50). Nawiązujemy współpracę z Kołami Naukowymi Informatyki Politechniki Poznańskiej, Uniwersytetu Gdańskiego, Uniwersytetu Toruńskiego, Uniwersytetu Wrocławskiego oraz Uniwersytetu Warszawskiego
+    zarzad_info: true
+    prezes: Tadeusz Kędzierski
+    vice: Barbara Janicka, Marta Kwiatkowska
+    skarbnik: Jacek Nowak
+    sekretarz:  Lucyna Krupa
+    biblioteka: Leszek Śmigielski, Jan Piechowicz
+    rewizyjna:  Andrzej Bieszczad, Janusz Szczypuła
+  - year: 1978
+    header:
+    body:
+    zarzad_info: true
+    prezes:     Tadeusz Kędzierski
+    skarbnik:   Jacek Nowak
+    rewizyjna:  Janusz Szczypuła
+  - year: 1979
+    header: Pracowicie
+    body: Cykl referatów MERA, zapoznawanie się z systemami George i Odra, współpraca z ośrodkiem w Biprostalu, Kołowy Sylwester, szkoła letnia, szkoła wiosenna, szkoleie ucnziów V LO, nauka FORTRANu referaty i seminaria - ten rok stanowczo jest pracowity
+    zarzad_info: true
+    prezes:     Jacek Nowak
+    vice:       Barbara Janicka, Zbigniew Kędzioła
+    skarbnik:   Jerzy Kubski
+    sekretarz:  Lucyna Krupa
+    biblioteka: Marta Kwiatkowska, Leszek Śmigielski
+    rewizyjna:  Lech Wolanin, Janusz Szczypuła, A. Zbrzezny

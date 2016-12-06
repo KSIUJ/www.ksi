@@ -1,0 +1,103 @@
+name: 2000
+years:
+  - year: 2000
+    header:
+    body:
+    zarzad_info: true
+    prezes:     Anna Maczuga
+    vice:       Adam Strzelecki
+    skarbnik:   Marta Mierzejewska
+    sekretarz:  Przemysław Tarczyński
+    biblioteka: Julian Ludwikowski
+    rewizyjna:  Leszek Pieniążek, Zbigniew Szydłowski
+  - year: 2001
+    header:
+    body: W naszym kole pojawia się nowa drukarka atramentowa :)
+    zarzad_info: true
+    prezes:     Piotr Długoń-Ryba
+    vice:       Jarosław Zając
+    skarbnik:   Marta Mierzejewska
+    sekretarz:  Maciej Słomczyński
+    biblioteka: Julian Ludwikowski
+    rewizyjna:  Renata Szymonek, Jolanta Mamot
+  - year: 2002
+    header:
+    body:
+    zarzad_info: true
+    prezes:     Piotr Długoń-Ryba
+    vice:       Jarosław Zając
+    skarbnik:   Marta Mierzejewska
+    sekretarz:  Maciej Słomczyński
+    biblioteka: Julian Ludwikowski
+    rewizyjna:  Renata Szymonek, Piotr Krukowiecki
+  - year: 2003
+    header:
+    body:
+    zarzad_info: true
+    prezes:     Piotr Długoń-Ryba
+    vice:       Jarosław Zając
+    skarbnik:   Jolanta Momot
+    sekretarz:  Krzysztof Urbański
+    biblioteka: Julian Ludwikowski
+    rewizyjna:  Michał Oczak, Piotr Krukowiecki
+  - year: 2004
+    header:
+    body: Razem z kołami z UEKu, AGH i PK organizujemy pierwszą edycję Studenckiego Festiwalu Informatycznego
+    zarzad_info: true
+    prezes:     Jarosław Zając
+    vice:       Anna Maczuga
+    skarbnik:   Piotr Krukowiecki
+    sekretarz:  Michał Grudzień
+    biblioteka: Bartłomiej Siwek
+    rewizyjna: Renata Szymonek, Michał Masiarek
+  - year: 2005
+    header:
+    body:
+    zarzad_info: true
+    prezes:     Jarosław Zając
+    vice:       Łukasz Kaczara, Paweł Jaworski
+    skarbnik:   Tomasz Jurkiewicz
+    sekretarz:  Michał Grudzień
+    biblioteka: Dariusz Jaros
+    rewizyjna: Tomasz Mikołajewski, Anna Milcarz
+  - year: 2006
+    header:
+    body: W naszej biblioteczce pojawiają się Grębosz, Cormen i Opiala. Każdy kołowicz otrzymuje ksiową koszulkę.
+    zarzad_info: true
+    prezes:     Anna Milcarz
+    vice:       Dorota Sadza
+    skarbnik:   Tomasz Jurkiewicz
+    sekretarz:  Dariusz Jaros
+    biblioteka: Tomasz Mikołajewski
+    rewizyjna:  Paweł Jaworski, Łukasz Kaczara
+  - year: 2007
+    header:
+    body: A najcenniejsze skarby lądują w sejfie.
+    zarzad_info: true
+    prezes:     Anna Jaworska
+    vice:       Dorota Sadza
+    skarbnik:   Łukasz Kaczara
+    sekretarz:  Paweł Jaworski
+    biblioteka: Karol Kosiński
+    gospodarz:
+    rewizyjna:  Dariusz Jaros, Jarosław Zając
+  - year: 2008
+    header:
+    body: Nasza siedziba staje otworem przed każdym z kołowiczów!
+    zarzad_info: true
+    prezes:     Maria Chmaj
+    vice:       Dorota Sadza
+    skarbnik:   Kamil Bartocha
+    sekretarz:  Aleksandra Bieńkowska
+    biblioteka: Karol Kosiński
+    rewizyjna:  Tomasz Paczkowski, Marek Maśko
+  - year: 2009
+    header: KSI eventami stoi!
+    body: Lubimy pokazywać informatykę i nasz Wydział z jak najlepszej strony - i robimy to dobrze! Rok akademicki 2009/2010 potwierdza to wieloma udanymi wydarzeniami Studenckim Festiwalem Informatycznym, Festiwalem Nauki, Małopolską Nocą Naukowców, Dniem otwartym Wydziału. W czasie wakacji łączymy miłe z pożytecznym w czasie wyjazdu naukowo-integracyjnego "Informatyka pod Żaglami". Doceniamy również tych, którzy najmocniej angażują się w działalność KSI - Dorota Sadza długoletnia Zastępczyni Prezesa KSI oraz opiekun Koła - dr hab. inż. Marek Skomorowski otrzymują Honorowe Członkostwo. 
+    zarzad_info: true
+    prezes:     Maria Chmaj
+    vice:       Paulina Gajda, Kamil Kraszewski
+    skarbnik:   Kamil Bartocha
+    sekretarz:  Aleksandra Bieńkowska
+    gospodarz:  Karol Kosiński
+    rewizyjna:  Piotr Bzdęga, Marek Maśko

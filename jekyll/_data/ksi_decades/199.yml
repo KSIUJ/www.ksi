@@ -1,0 +1,34 @@
+name: 1990
+years:
+  - year: 1995
+    header: Znów powracamy z działalnością
+    body:   Opiekunem koła zostaje dr hab. Marek Zaionc
+    zarzad_info: true
+    prezes:     Artur Stawiarski
+  - year: 1996
+    header:
+    body:   Wyjazd przedstawicieli Koła Studentow Informatyki na INFO Festiwal 96’.
+    zarzad_info: true
+    prezes:     Łukasz Hankus
+    vice:       Marcin Danielak
+    skarbnik:   Tomasz Rawski
+    sekretarz:  Artur Stawiarski
+    rewizyjna:  Leszek Pieniążek, Piotr Szular
+  - year: 1998
+    header:
+    body:
+    zarzad_info: true
+    prezes:     Marek Stasielak
+    vice:       Marcin Danielak
+    skarbnik:   Rafał Zadbyr
+    sekretarz:  Krzysztof Pilśniak
+    rewizyjna:  Leszek Pieniążek, Zbigniew Szydłowski
+  - year: 1999
+    header:
+    body: Koncentrujemy się na działalności naukowej - organizujemy Sesje naukową, Szkołę Zimową, warsztaty z Javy, a także bierzemy udział w konferencji CeBIT. Kupujemy komputer - serwer pingu.ii.uj.edu.pl
+    zarzad_info: true
+    prezes: Adam Strzelecki
+    vice: Przemysław Tarczyński
+    skarbnik: Rafał Zadbyr
+    sekretarz: Robert Luberda
+    rewizyjna: Leszek Pieniążek, Zbigniew Szydłowski

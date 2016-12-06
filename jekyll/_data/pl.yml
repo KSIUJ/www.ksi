@@ -2,44 +2,45 @@ frontpage:
   title: Koło Studentów Informatyki UJ
   lead: Witaj na stronie najlepszego koła naukowego na świecie!
   read_more: Czytaj więcej
-  
+
   section_ksi:
     title:  Koło Studentów Informatyki UJ
-    text:   KSI ­ czternasta litera alfabetu greckiego (który z pewnością poznasz na Wstępie do Teorii Mnogości) na naszej uczelni zyskała szczególne znaczenie. Pod tym symbolem kryje się bowiem Koło Studentów Informatyki UJ – organizacja, którą powinien znać każdy student informatyki (i nie tylko!). Od prawie 40 lat zrzeszamy kreatywne i ciekawe świata osoby, które nie chcą ograniczać się wyłącznie do obowiązkowych zajęć na uczelni. 
-  
+    text:   KSI ­ czternasta litera alfabetu greckiego (który z pewnością poznasz na Wstępie do Teorii Mnogości) na naszej uczelni zyskała szczególne znaczenie. Pod tym symbolem kryje się bowiem Koło Studentów Informatyki UJ – organizacja, którą powinien znać każdy student informatyki (i nie tylko!). Od prawie 40 lat zrzeszamy kreatywne i ciekawe świata osoby, które nie chcą ograniczać się wyłącznie do obowiązkowych zajęć na uczelni.
+
   section_events:
     title:  Wydarzenia
-    text:   Warsztaty, wykłady, konferencje - jeżeli chcesz być na bieżąco z najnowszymi nowinkami w branży, poznać nowe technologie czy spotkać się z innymi pasjonatami IT - ta zakładka jest dla ciebie. Znajdziesz tutaj wydarzenia organizowane przez KSI, a także ciekawe eventy innych organizacji, na które z pewnością warto zajrzeć. 
-  
+    text:   Warsztaty, wykłady, konferencje - jeżeli chcesz być na bieżąco z najnowszymi nowinkami w branży, poznać nowe technologie czy spotkać się z innymi pasjonatami IT - ta zakładka jest dla ciebie. Znajdziesz tutaj wydarzenia organizowane przez KSI, a także ciekawe eventy innych organizacji, na które z pewnością warto zajrzeć.
+
   section_proj_center:
     title:  Centrum projektowe
     text:   Jeżeli szukasz miejsca gdzie w spokoju możesz przylutować, spiłować, skręcić, rozkręcić, zdiagnozować swój sprzęt, postawić własny serwer, zbudować drukarkę 3D lub zrealizować swój własny pomysł - zajrzyj koniecznie do naszego Centrum&nbsp;Projektowego&nbsp;(sala&nbsp;1166).
-  
+
   section_didactics:
     title:  Ucz się z KSI
     text:   Studia to także czas kiedy można się czegoś... nauczyć ;) KSI w tym pomaga - nie tylko dając przestrzeń gdzie możecie w grupie pouczyć się do kolosa, ale współorganizując warsztaty i szkolenia - np. z Ruby on Rails, Gita, czy umiejętności miękkich. Jeśli czegoś nie umiesz to w KSI na pewno znajdzie się ktoś kto to już zdał i jest chętny Ci pomóc!
-  
+
   section_server_room:
     title:  Serwerownia
     text:   W KSI mamy też własną serwerownię pełną serwerów w pełni przez nas zarządzanych (stoi tam m.in. ta strona) oraz udostępniamy miejsce dla serwerów Kół Naukowych i naszych Kołowiczów.
-  
+
   section_projects:
     title:  Projekty
     text:   Klaster obliczeniowy, elektroniczny zamek do drzwi, własny serwer druku, informator dla studentów naszego Wydziału, interaktywna strona Dnia Wydziału - to tylko część z realizowanych przez nas projektów. Czytaj dalej by dowiedzieć się więcej na ich temat. I koniecznie zajrzyj na naszego GitHuba!
-  
+
   section_news:
     title:  Aktualności
     text:   Konferencje, warsztaty, wykłady, najnowsze przedsięwzięcia - w tej zakładce zawsze znajdziesz to czym obecnie żyje nasze Koło.
     more:   Wszystkie artykuły znajdziesz w dziale <em>Aktualności</em>
-    
+
   section_contact:
     title:  Skonatktuj się z nami!
-    text:   Koło Studentów Informatyki nie istniałoby gdyby nie osoby takie jak ty - nasi Kołowicze i sympatycy. Jeżeli masz jakiekolwiek pomysły, sugestie czy pytania - zapraszamy do kontaktu! 
+    text:   Koło Studentów Informatyki nie istniałoby gdyby nie osoby takie jak ty - nasi Kołowicze i sympatycy. Jeżeli masz jakiekolwiek pomysły, sugestie czy pytania - zapraszamy do kontaktu!
 
 menu:
   homepage: Strona główna
   news:     Aktualności
   about:    O KSI
+  history:  Historia (KSI40)
   events:   Wydarzenia
   projects: Projekty
   contact:  Kontakt

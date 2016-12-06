@@ -20,11 +20,12 @@ function hidePhoto(){
 
 	"use strict";
 
+  /* keep this synced with /css/main.scss */
 	skel.breakpoints({
 		xlarge:	'(max-width: 1680px)',
 		large:	'(max-width: 1280px)',
+    menucritical: '(max-width: 1170px)',
 		medium:	'(max-width: 980px)',
-		menucritical:	'(max-width: 980px)',
 		small:	'(max-width: 736px)',
 		xsmall:	'(max-width: 480px)'
 	});
@@ -75,10 +76,10 @@ function hidePhoto(){
 			}
 
 		// Loading elements of page
-			$.getScript( "http://www.w3schools.com/lib/w3data.js", function( data, textStatus, jqxhr ) { 
+			$.getScript( "http://www.w3schools.com/lib/w3data.js", function( data, textStatus, jqxhr ) {
 				w3IncludeHTML();
 			} );
-			
+
 
 		// Menu.
 			var $menu = $('#header ul.links');
@@ -88,7 +89,7 @@ function hidePhoto(){
 			$menu.css("display","none");
 			if (! skel.breakpoint('menucritical').active)
 				$menu.css("display","block");
-			
+
 			function toggleMenu() {
 				menuIsOpen = !menuIsOpen;
 
@@ -110,7 +111,7 @@ function hidePhoto(){
 			});
 
 		//PhotoShower
-			
+
 			$(document).keydown(function(e) {
 			    if (e.keyCode == 27) {
 			        hidePhoto();
@@ -127,10 +128,10 @@ function hidePhoto(){
 		    $("body").append( "<div id='photoCanvas'></div>" );
 
 		    $(".clickablePicture").click(function(){
-		    	var x = $(this).attr('src'); 
+		    	var x = $(this).attr('src');
 		    	showPhoto(x);
 		    });
-			
+
 	});
 
 })(jQuery);
