@@ -1,0 +1,10 @@
+---
+layout: halfpage
+title:  "KSI Camp #2"
+date:   2016-10-20 12:34:56
+post_img_url: /images/ksicamp-2.png
+language: pl
+---
+Wielkimi krokami zbliża się sobota - a co za tym idzie kolejne spotkanie KSICamp! Już o 10.00 spotykamy się w sali 0020 by kontynuować naukę linuksa oraz podstaw programowania. Do zobaczenia!
+
+[Więcej informacji o całym cyklu](/ksi-camp)
