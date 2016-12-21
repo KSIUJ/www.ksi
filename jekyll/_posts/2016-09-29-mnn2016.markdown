@@ -1,0 +1,17 @@
+---
+layout: halfpage
+title:  "Małopolska Noc Naukowców 2016"
+date:   2016-09-29 12:34:56
+post_img_url: /images/mnn2016.jpg
+language: pl
+---
+Już jutro Małopolska Noc Naukowców na UJ! Zobaczcie koniecznie co przygotowali na ten wieczór członkowie naszego Koła :) Widzimy się już jutro na Łojasiewicza 6
+
+
+ - **Internet of Things** - Marcin Klimek &amp; Dawid Rączka (Estimote)
+ - **Tworzenie gier komputerowych dla dzieci i nie tylko** - Karolina Tutaj &amp; Adam Orliński
+ - **Podstawy uczenia maszynowego /sztucznej inteligencji** - Łukasz Siatka &amp; Michał Soboszek
+ - **Programowanie dla bardzo początkujących** - Michał Herda
+ - **Jak działa Snapchat i dlaczego Twoje zdjęcia tak naprawdę nie znikają?** - Piotr Maliszewski
+ - **Historia informatyki i komputerów w pigułce z okazji 40-lecia KSI UJ** - Dominika Zając
+ - **Microsoft Server Infrastructure - spójne zarządzanie całą infrastrukturą IT** - Daniel Skowroński
