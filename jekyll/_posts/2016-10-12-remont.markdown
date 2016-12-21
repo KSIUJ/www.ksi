@@ -1,0 +1,15 @@
+---
+layout: halfpage
+title:  "Remont"
+date:   2016-10-12 12:34:56
+post_img_url: /images/remont.jpg
+language: pl
+---
+Prezes Koła dokonuje oficjalnego otwarcia siedziby po wakacyjnym remoncie z okazji 40-lecia KSI, poprzez przecięcie skrętki :P
+
+W tym tygodniu uruchomimy ponownie zamek elektroniczny - zachęcamy członków Koła do dopisania swoich legitymacji studenckich do systemu!
+
+Najważniejsze zmiany remontowe:
+ - zmieniliśmy kolor na zielony!
+ - mamy całą ścianę do rysowania, pisania i rozkminiania problemów - zamieniła się w ogromną tablicę
+ - porządek w umeblowaniu
