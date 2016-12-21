@@ -1,0 +1,10 @@
+---
+layout: halfpage
+title:  "Grupa Kraklisp"
+date:   2016-10-20 12:14:29
+post_img_url: /images/lisp.png
+language: pl
+---
+Czy są tutaj jacyś wielbiciele języka pełnego nawiasów? A może dopiero chcecie go poznać? Serdecznie zapraszamy na pierwszy wykład grupy Kraklisp w tym roku akademickim - już 28 października 2016 o godz. 16.00 w naszej siedzibie.
+
+Koniecznie zobaczcie też kanał na youtube - [https://www.youtube.com/channel/UCymtXMj1M7cKiV9TKLoTtEg](https://www.youtube.com/channel/UCymtXMj1M7cKiV9TKLoTtEg), gdzie znajdziecie wiele przydatnych lispowych tutoriali nagrywanych przez naszego KSIowego administratora - phoe!
