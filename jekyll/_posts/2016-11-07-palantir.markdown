@@ -1,0 +1,24 @@
+---
+layout: halfpage
+title:  "'Problem? Solve it!' - Warsztaty z Palantir"
+date:   2016-11-7 12:14:29
+post_img_url: /images/palantir.png
+language: pl
+---
+Może niektórzy z was myślą już o świętach, ale my nie ustajemy w organizowaniu kolejnych wydarzeń - tym razem chcielibyśmy zaprezentować wam warsztaty z amerykańską firmą Palantir, która specjalizuje się w analizie Big Data w szczególności pod kątem bezpieczeństwa publicznego, zwalczania terroryzmu i wykrywania oszustw finansowych. Ciekawych co może się wydarzyć podczas warsztatów na tak ekscytującym polu zapraszamy już 16 listopada na 17.00 do sali 1016!
+
+Oprócz samych warsztatów zachęcamy was do spróbowania swoich sił i zgłoszenia się do programu stażowego - wystarczy, że wyślecie swoje CV na adres Jagiellonian@palantir.com. Jak zawsze, możecie liczyć na pizzę i gadżety!
+
+[Event na facebooku](https://www.facebook.com/events/407938322926970)
+
+Poniżej oryginalny opis:
+>
+> Today’s critical institutions don’t just protect public safety or provide vital goods and services - they also deal with astonishing amounts of data. At Palantir, we build software that lets organizations integrate and analyze their data to solve problems they couldn’t before. For example, we’re helping our customers combat terrorism at home and abroad, investigate and prosecute financial fraud rings, offer more credit to retail banking customers, manufacture products faster and more safely, and fight violent crime in the world’s great cities. And we’re just getting started.
+>
+> Come join us at our hands-on problem solving event and learn from full-time engineers about how we approach these problems. We’ll explore real-world examples similar to those mentioned above and challenge you to come up with solutions.
+>
+> Palantir is hiring for Software Engineers [https://jobs.lever.co/palantir/95acc82e-fca3-43cd-81c7-15a15ba27a7a](https://jobs.lever.co/palantir/95acc82e-fca3-43cd-81c7-15a15ba27a7a) and Forward Deployed Engineers [https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850](https://jobs.lever.co/palantir/5168e8fd-fec1-4fea-b7a1-81bdaea65850) for full-time AND internships in London and some US locations. We want to meet you! Please email your resume directly to Jagiellonian@palantir.com to be considered for an in-person interview on campus on the 17th of November.
+>
+> Pizza will be provided and raffle prizes awarded!
+>
+> We'll see at room 1016.
