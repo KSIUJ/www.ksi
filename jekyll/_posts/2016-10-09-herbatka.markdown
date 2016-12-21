@@ -1,0 +1,17 @@
+---
+layout: halfpage
+title:  "Herbatka z KSI 2016"
+date:   2016-10-09 12:34:56
+post_img_url: /images/herbatka2016-plakat.png
+language: pl
+---
+Zapraszamy wszystkich członków KSI oraz osoby zainteresowane naszym Kołem na kolejne spotkanie "herbatka z KSI"! Poza herbatą będzie można napić się oczywiście też kawy, zjeść ciastka oraz pizzę :P Do tego oficjalnie otworzymy naszą siedzibę po zakończonym remoncie!
+
+Na spotkaniu pochwalimy się ostatnio zrealizowanymi projektami i opowiemy o planach na kolejne tygodnie/miesiące, takie jak:
+- warsztaty z tworzenia gier od podstaw - nie jest wymagana znajomość programowania!
+- spotkania KSI Camp dla pierwszego roku - warsztaty z podstaw programowania i linuxa i ogarniania wydziału
+- współorganizowane przez nas wydarzenia, takie jak Studencki Festiwal Informatyczny, It Academic Day UJ 2016, spotkania z Google i innymi firmami, Festiwal Nauki w Krakowie, Małopolska Noc Naukowców itd.
+- pomysły realizowane w serwerowni / centrum projektowym, takie jak klaster obliczeniowy, drukarka 3D, gry wykorzystujące wirtualną rzeczywistość i wiele innych
+
+ - Gdzie: Wydział Matematyki i Informatyki UJ, sala 1173 (siedziba KSI) - http://www.plan.ii.uj.edu.pl/plan.php?n=1173
+ - Kiedy: 12.10 (środa), godzina 18:00 (będziemy też wcześniej, na wypadek gdyby komuś mocno nie pasowała ta pora)
