@@ -1,0 +1,12 @@
+---
+layout: halfpage
+title:  "Tydzień Jakości Kształcenia"
+date:   2016-10-21 12:34:56
+post_img_url: /images/tjk2016.jpg
+language: pl
+---
+Na pewno w czasie studiów chociaż raz zauważyłeś że coś nie działa tak jak powinno i mogłoby być ulepszone. A może masz jakiś pomysł na poprawę nauczania na naszej uczelni ale nie wiesz komu mógłbyś go zgłosić? Teraz możemy coś zmienić! Już niedługo na Wydział Matematyki i Informatyki UJ i na całym Uniwersytet Jagielloński odbędzie się Tydzień Jakości Kształcenia.
+
+Napisz proszę jakie tematy powinniśmy tam poruszyć - w komentarzach pod postem, mailowo na ksi@uj.edu.pl czy też całkowicie anonimowo na [https://sayat.me/ksi](https://sayat.me/ksi)
+
+**Razem zmieniajmy naszą uczelnię na lepsze!**
