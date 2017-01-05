@@ -4,6 +4,18 @@ markdown: kramdown
 gems:
 - jekyll-language-plugin
 - jekyll-sitemap
+- jekyll-seo-tag #experimental
 
 language_data: data.%%
 language_includes_dir: _i18n
+
+# for SEO
+title: "Koło Studentów Informatyki UJ"
+description: "Witaj na stronie najlepszego koła naukowego na świecie!"
+url: "https://ksi.ii.uj.edu.pl"
+social:
+  links:
+    - https://www.facebook.com/ksi.uj
+    - https://github.com/ksiuj
+    - https://instagram.com/ksiuj
+google_site_verification: itaBFyu7_-vU6FYw0hKhfel6XlK3jx-daMyl4FIlQSk
