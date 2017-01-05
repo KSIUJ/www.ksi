@@ -76,7 +76,7 @@ function hidePhoto(){
 			}
 
 		// Loading elements of page
-			$.getScript( "http://www.w3schools.com/lib/w3data.js", function( data, textStatus, jqxhr ) {
+			$.getScript( "//www.w3schools.com/lib/w3data.js", function( data, textStatus, jqxhr ) {
 				w3IncludeHTML();
 			} );
 
