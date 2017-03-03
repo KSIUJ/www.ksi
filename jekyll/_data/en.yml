@@ -1,11 +1,11 @@
 frontpage:
-  title: Computer Science Students Association - KSI UJ
+  title: Computer Science Students' Association - KSI UJ
   lead: Welcome on website of the best Students Association in the world :)
   read_more: Read more
 
   section_ksi:
-    title:  Computer Science Students Association
-    text:   KSI (Xi) - fourteenth letter of Greek alphabet (which you will learn at introduction to set theory) on our university gained special meaning. This symbol means Computer Science Students Association (<strong>K</strong>o&#322;o <strong>S</strong>tudnetów <strong>I</strong>nformatyki - KSI=Xi) - organization, which should be known by every computer science student (and not only!). Since 1976 we unite creative and curious people who don't want to limit themselves only to mandatory classes.
+    title:  Computer Science Students' Association
+    text:   KSI (Xi) - fourteenth letter of Greek alphabet (which you will learn at introduction to set theory) on our university gained special meaning. This symbol means Computer Science Students' Association (<strong>K</strong>o&#322;o <strong>S</strong>tudnetów <strong>I</strong>nformatyki - KSI=Xi) - organization, which should be known by every computer science student (and not only!). Since 1976 we unite creative and curious people who don't want to limit themselves only to mandatory classes.
 
   section_events:
     title:  Events
@@ -21,7 +21,7 @@ frontpage:
 
   section_server_room:
     title:  Server room
-    text:   KSI also has it's own server room full of computers managed by us (eg. this site is hosted by one of them) and we are sharing space for other Students Associations and our members servers.
+    text:   KSI also has it's own server room full of computers managed by us (eg. this site is hosted by one of them) and we are sharing space for other Students' Associations and our members servers.
 
   section_projects:
     title:  Projects
