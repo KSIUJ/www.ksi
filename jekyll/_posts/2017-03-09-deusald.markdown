@@ -1,0 +1,8 @@
+---
+layout: halfpage
+title:  "Sukces naszego Kołowicza w Startup Games Sosnowiec"
+date:   2017-03-09 20:00:29
+post_img_url: /images/deusald.jpg
+language: pl
+---
+Miło nam poinformować, że Adam Orliński (którego na pewno kojarzycie jako prowadzącego zajęcia z Unity w naszym Kole) wygrał Startup Games Sosnowiec! Jego gra - Ignis zdeklasowała przeciwników - koniecznie śledźcie dalsze postępy w jej tworzeniu na profilu: [Deusald](https://www.facebook.com/Deusald/?hc_ref=SEARCH&fref=nf)
