@@ -1,10 +1,10 @@
 ---
 layout: halfpage
-title:  "Nasz Kołowicz na European Lisp Sympossium 2017"
+title:  "Nasz Kołowicz na European Lisp Symposium 2017"
 date:   2017-03-11 20:00:29
 post_img_url: /images/phoe.jpg
 language: pl
 ---
-Czy wiesz, że mamy w Kole ludzi na tyle zwariowanych, że programują w Lispie, pracują nad rozwojem tego języka i jeszcze w dodatku nie boją się pokazywać swojej pracę za granicą? Michał "phoe" Herda pracuje nad nowym projektem dokumentacji do Lispa, zwanego Common Lisp UltraSpec, o którym napisał publikacje i który będzie prezentował na konferencji European Lisp Symposium 2017 w Brukseli! Dodatkowo odbędzie się tam wernisaż grafiki Michała z okazji 60-tych urodzin języka Lisp.
+Czy wiecie, że mamy w Kole ludzi na tyle zwariowanych, że programują w Lispie, pracują nad rozwojem tego języka i jeszcze w dodatku nie boją się pokazywać swojej pracę za granicą? Michał "phoe" Herda pracuje nad nowym projektem dokumentacji Lispa, zwanej Common Lisp UltraSpec (CLUS), napisał o niej *publikację naukową* i będzie prezentował ją na konferencji European Lisp Symposium 2017 w Brukseli! Dodatkowo odbędzie się tam wernisaż grafiki Michała z okazji 60-tych urodzin języka Lisp.
 
 Projekt CLUS znajdziecie [tutaj](http://phoe.tymoon.eu/clus/doku.php)
