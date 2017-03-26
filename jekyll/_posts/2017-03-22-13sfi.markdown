@@ -1,0 +1,15 @@
+---
+layout: halfpage
+title:  13. Studencki Festiwal Informatyczny
+date:   2017-03-22 23:43:38
+post_img_url: /images/13sfi/plakat.jpg
+language:   pl
+---
+
+13. Studencki Festiwal Informatyczny już za nami! Mimo przysłowiowej "pechowej trzynastki" ta edycja była rekordowa - osiągnęłą ponad **5500 odsłuchań** i zgromadziła wielu wybitnych prelegentów z branży IT.
+
+Gościliśmy między innymi Thomasa H. Cormena (współautora "Wprowadzenia do algorytmów"), Andrew S. Tanenbauma (twórcę systemu MINIX), Pawła Sasko (quest designer pracujący m. in. przy Wiedźminie 3) i Jerzego Grębosza (autora Symfonii C++).
+
+Oprócz atrakcyjnych wykładów i warsztatów odwiedzający mogli rozejrzeć się za ofertami pracy na stanowiskach sponsorów Festiwalu, zrelaksować się w przygotowanej strefie chilloutu oraz wziąć udział w kilku konkursach.
+
+Bardzo dziękujemy wszystkim naszym kołowiczom zaangażowanym w projekt - bez was zorganizowanie festiwalu z takim rozmachem byłoby niemożliwe. Jesteście wspaniali!
