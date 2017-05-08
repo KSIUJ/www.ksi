@@ -39,12 +39,10 @@ Ludzie KSI
 - Dominika Zając - prezes Zarządu
 - Wojciech Sabała - wiceprezes Zarządu
 - Adam Piekarczyk - wiceprezes Zarządu, administrator serwerowni
-- Michał Herda - skarbnik
+- Michał Herda - skarbnik, administrator serwerowni
 - Daniel Skowroński - sekretarz, administrator serwerowni
-- Piotr Rytko - członek Komisji Rewizyjnej
 - Tomasz Zub - członek Komisji Rewizyjnej
-- Tobiasz Porębski - gospodarz
-- Michał Kurzyński - gospodarz
+- Krzysztof Hajto - członek Komisji Rewizyjnej
 - Michał Piotrowski - administrator serwerowni
 
 {% gallery %}
