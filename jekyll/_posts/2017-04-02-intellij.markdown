@@ -1,0 +1,10 @@
+---
+layout:	halfpage
+title: Szybsze kodzenie w IntelliJ - AVSystem
+date:	   2017-04-02 23:00:29
+post_img_url: /images/intellij.jpg
+language: pl
+---
+Dla wszystkich miłośników Javy, Scali i nie tylko przygotowaliśmy razem z firmą AVSystem coś specjalnego! Jak szybciej i wygodniej kodzić w IntelliJ Idea dowiecie się już 12.04 o godz. 17 - koniecznie sprawdźcie szczegóły na stronie wydarzenia i rezerwujcie czas. Do zobaczenia!
+
+Więcej informacji na [wydarzeniu na Facebooku](https://www.facebook.com/events/280158359104483/)
