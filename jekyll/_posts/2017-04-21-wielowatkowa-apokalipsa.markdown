@@ -2,7 +2,7 @@
 layout:	halfpage
 title: Wielowątkowa apokalipsa C++
 date:	   2017-04-21 05:00:29
-post_img_url: /images/apocalypse.jpg
+post_img_url: /images/apokalipsa.jpg
 language: pl
 ---
 
