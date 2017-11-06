@@ -57,5 +57,5 @@ Ludzie KSI
 
 Dokumenty
 ------
-- [Statut Koła Studentów Informatyki UJ](/files/statut2015.pdf)
+- [Statut Koła Studentów Informatyki UJ](/files/statut2017.pdf)
 - [Regulamin Serwerowni KSI UJ](/files/regulaminserwerowni.pdf)
