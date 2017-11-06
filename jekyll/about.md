@@ -36,14 +36,14 @@ Chcesz dowiedzieć się o nas czegoś więcej? Skontaktuj się z nami! Pamiętaj
 Ludzie KSI
 ------
 - prof. dr hab. inż. Marek Skomorowski - opiekun Koła
-- Dominika Zając - prezes Zarządu
-- Wojciech Sabała - wiceprezes Zarządu
-- Adam Piekarczyk - wiceprezes Zarządu, administrator serwerowni
-- Michał Herda - skarbnik, administrator serwerowni
-- Daniel Skowroński - sekretarz, administrator serwerowni
-- Tomasz Zub - członek Komisji Rewizyjnej
+- Dominika Zając - prezes
+- Wojciech Sabała - wiceprezes
+- Adam Piekarczyk - wiceprezes, administrator serwerowni
+- Szymon Smykała - skarbnik
+- Adam Pardyl - sekretarz, administrator serwerowni
+- Michał Herda - administrator serwerowni, członek Komisji Rewizyjnej
+- Daniel Skowroński - administrator serwerowni
 - Krzysztof Hajto - członek Komisji Rewizyjnej
-- Michał Piotrowski - administrator serwerowni
 
 {% gallery %}
 /photos/pages/about/ksircianka.jpg: Gra o naszym Kole
