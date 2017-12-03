@@ -44,6 +44,8 @@ Ludzie KSI
 - Michał Herda - administrator serwerowni, członek Komisji Rewizyjnej
 - Daniel Skowroński - administrator serwerowni
 - Krzysztof Hajto - członek Komisji Rewizyjnej
+- Michał Kawiecki - gospodarz
+- Jakub Kiermasz - gospodarz
 
 {% gallery %}
 /photos/pages/about/ksircianka.jpg: Gra o naszym Kole
