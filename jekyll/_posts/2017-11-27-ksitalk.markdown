@@ -8,9 +8,9 @@ language: pl
 Za nami pierwsze spotkanie w ramach KSITalks - serii spotkań raz w miesiącu, na których będziemy dzielić się wiedzą, planować kolejne wydarzenia oraz podsumowywać to co się już wydarzyło :)
 
 W czasie pierwszego spotkania swoje miniprezentacje wygłosila 3 KSIowiczów:
-Michał Herda - mini wykład o kryptografii
-Adam Pardyl - ksinux
-Dominika Zając - progressive web apps
+- Michał Herda - mini wykład o kryptografii
+- Adam Pardyl - ksinux
+- Dominika Zając - progressive web apps
 
 Najlepszym mówcą wieczoru jednogłośnie wybrany został Michał - serdecznie gratulujemy!
 
