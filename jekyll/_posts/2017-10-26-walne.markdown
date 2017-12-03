@@ -1,0 +1,20 @@
+---
+layout:	halfpage
+title:	Warsztaty - Git & Release management z GE Digital
+date:	   2017-10-26 19:30:29
+post_img_url: /images/walne.jpg
+language: pl
+---
+Miło nam poinformować, że na wczorajszym zebraniu walnym Koła wybrany został nowy zarząd w składzie:
+Dominika Zając - Prezes
+Wojciech Sabała - Wiceprezes
+Adam Piekarczyk - Wiceprezes
+Szymon Smykała - Skarbnik
+Adam Pardyl - Sekretarz
+
+oraz komisja rewizyjna, w której skład weszli: Krzysiek Hajto oraz Michał Herda.
+
+Serdecznie dziękujemy ustępującym członkom zarządu: Daniel Skowroński & Michałowi Herdzie oraz Tomasz Zub z komisji rewizyjnej za ubiegły rok. Dziękujemy również wszystkim KSIowiczom, który brali udział we wczorajszym zebraniu!
+
+Oby ten rok dla KSI był jeszcze lepszy niż poprzedni!
+

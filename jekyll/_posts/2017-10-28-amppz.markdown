@@ -1,0 +1,8 @@
+---
+layout:	halfpage
+title:	Akademickie Mistrzostwa w Programowaniu Zespołowym
+date:	   2017-10-28 21:30:29
+post_img_url: /images/amppz.jpg
+language: pl
+---
+Z dumą informujemy, że nasz kołowicz Michał Zieliński wraz z drużyną zdobyli drugie miejsce w Akademickich Mistrzostwach Polski w Programowaniu Zespołowym. Gratulujemy!

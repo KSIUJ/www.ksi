@@ -1,0 +1,10 @@
+---
+layout:	halfpage
+title:	KSI Camp
+date:	   2017-11-08 17:55:29
+post_img_url: /images/ksicamp.png
+language: pl
+---
+Hej, czy są tu jakieś pierwszaki? Dajcie jakikolwiek znak życia!
+Tak jak w zeszłym roku chcemy zorganizować dla Was mini warsztaty, które pomogą Wam na samym początku studiów. Matma, programowanie (bez tablic :P), a może wszystkie konta pocztowe studenta ii? O czym chcielibyście posłuchać? Koniecznie dajcie nam znać!
+Informacje o tym, kiedy zorganizujemy KSICamp i o czym będziemy mówić na najbliższych zajęciach podamy na FP oraz na kanale #ksicamp na Discordzie.
