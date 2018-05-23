@@ -1,6 +1,6 @@
 ---
 layout:	halfpage
-title:	Warsztaty - Git & Release management z GE Digital
+title:	Palantir - Problem? Solve it!
 date:	   2017-11-09 14:36:29
 post_img_url: /images/palantir.jpg
 language: pl

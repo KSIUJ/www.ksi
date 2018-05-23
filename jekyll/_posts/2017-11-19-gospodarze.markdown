@@ -1,6 +1,6 @@
 ---
 layout:	halfpage
-title:	Warsztaty - Git & Release management z GE Digital
+title:	Nowi gospodarze
 date:	   2017-11-19 18:19:29
 post_img_url: /images/nowi-gospodarze.png
 language: pl
