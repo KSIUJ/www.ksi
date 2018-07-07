@@ -1,0 +1,22 @@
+---
+layout:	halfpage
+title: Santa Claus is coming to... KSI
+date:  2017-12-06 11:30:29
+post_img_url: /images/mikolaj.jpg
+language: pl
+---
+> ,,You better watch out, you better not cry 
+> Better not pout, I'm telling you why 
+> Santa Claus is coming to... KSI "
+
+Powszechnie wiadomo, że 6. grudnia Święty Mikołaj odwiedza wszystkie dzieci zostawiając podarki dla grzecznych 
+i rózgi dla tych grzecznych nieco mniej. W tym roku KSIowicze stanowczo zaliczali się do tej drugiej grupy!
+
+
+Wśród ,,zasług" członków naszego Koła znalazły się m.in.: 
+- niezwalnianie pamięci w C++,
+- spóźnianie się na poranne zajęcia,
+- zostawianie brudnych kubków w kole...
+
+A za co Ty byś przyznał rózgę KSI? 
+
