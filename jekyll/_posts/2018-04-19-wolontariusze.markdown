@@ -1,6 +1,6 @@
 ---
 layout:	halfpage
-title: Dzień Otwarty UJ
+title: Podziękowania dla wolontariuszy
 date:  2018-04-19 23:57:29
 post_img_url: /images/wolontariusze-2018.jpg
 language: pl
