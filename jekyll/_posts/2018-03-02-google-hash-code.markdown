@@ -11,8 +11,12 @@ Już po raz trzeci uczestnicy z naszego huba 👨‍💻Google Hash Code dali z 
 Koniecznie zobaczcie [relację z wydarzenia](https://www.facebook.com/ksi.uj/videos/1855615454472215) przygotowaną przez [WhoMan](https://www.facebook.com/whomanproject/?fref=mentions), [Glan Art](https://www.facebook.com/glanowskaart/?fref=mentions) i [Szymona Smykałę](https://www.facebook.com/smykala.szymon?fref=mentions )
 
 
-<video controls
-       muted
-       src="https://www.facebook.com/ksi.uj/videos/1855615454472215">
-    Sorry, your browser doesn't support embedded videos.
-</video>
+<div class="fb-video" data-href="https://www.facebook.com/facebook/videos/10153231379946729/" data-width="500" data-show-text="false">
+    <div class="fb-xfbml-parse-ignore">
+      <blockquote cite="https://www.facebook.com/facebook/videos/10153231379946729/">
+        <a href="https://www.facebook.com/facebook/videos/10153231379946729/">How to Share With Just Friends</a>
+        <p>How to share with just friends.</p>
+        Posted by <a href="https://www.facebook.com/facebook/">Facebook</a> on Friday, December 5, 2014
+      </blockquote>
+    </div>
+  </div>
