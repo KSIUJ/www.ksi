@@ -1,7 +1,7 @@
 ---
 layout:	halfpage
 title: Loguj mądrze z Elastic Stackiem - AVSystem
-date:  2018-05-20 23:57:29
+date:  2018-05-24 23:57:29
 post_img_url: /images/elastic-stack.jpg
 language: pl
 ---
