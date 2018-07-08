@@ -19,13 +19,9 @@ Koniecznie zobaczcie [relację z wydarzenia](https://www.facebook.com/ksi.uj/vid
     fjs.parentNode.insertBefore(js, fjs);
   }(document, 'script', 'facebook-jssdk'));</script>
   
+<div class="fb-video" data-href="https://www.facebook.com/ksi.uj/videos/1855615454472215" data-width="500" data-show-text="false"><blockquote cite="https://www.facebook.com/ksi.uj/videos/1855615454472215/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ksi.uj/videos/1855615454472215/">Google #HashCode 2018</a><p>Działo się❗ Wiele drużyn, 4 godziny i jedno zadanie - obsłużyć jak największą ilość kursów autonomicznych samochodów w określonym czasie 🕔. Już po raz trzeci uczestnicy z naszego huba 👨‍💻 Google #HashCode dali z siebie wszystko❗ A jak to wszystko wyglądało zobaczcie w relacji ☺️ #GHC2018
 
-<div class="fb-video" data-href="https://www.facebook.com/facebook/videos/10153231379946729/" data-width="500" data-show-text="false">
-    <div class="fb-xfbml-parse-ignore">
-      <blockquote cite="https://www.facebook.com/facebook/videos/10153231379946729/">
-        <a href="https://www.facebook.com/facebook/videos/10153231379946729/">How to Share With Just Friends</a>
-        <p>How to share with just friends.</p>
-        Posted by <a href="https://www.facebook.com/facebook/">Facebook</a> on Friday, December 5, 2014
-      </blockquote>
-    </div>
-  </div>
+Realizacja:
+WhoMan
+Glan Art
+Szymon Smykała</p>Opublikowany przez <a href="https://www.facebook.com/ksi.uj/">Koło Studentów Informatyki UJ</a> Piątek, 2 marca 2018</blockquote></div>
