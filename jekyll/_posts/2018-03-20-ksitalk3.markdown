@@ -1,0 +1,14 @@
+---
+layout:	halfpage
+title: KSITalk #3
+date:  2018-03-20 13:57:29
+post_img_url: /images/ksitalk3.jpg
+language: pl
+---
+
+Dziękujemy Wam za kolejny (już 3!) KSITalk! 
+
+Olbrzymie podziękowania zwłaszcza dla naszego gościa - dr. hab. Daniela Wilczaka, który opowiedział nam o bezpieczeństwie obliczeń zmiennopozycyjnych oraz Adama Piekarczyka, który poruszył kwestie BRIEFa. 
+
+
+Nie zabrakło też podsumowania minionego miesiąca w serwo - do zobaczenia już wkrótce!

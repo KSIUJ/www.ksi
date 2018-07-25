@@ -1,0 +1,19 @@
+---
+layout:	halfpage
+title: KSITalk #5
+date:  2018-05-23 13:57:29
+post_img_url: /images/ksitalk5.jpg
+language: pl
+---
+
+Kolejny miesiąc, kolejny KSITalk! 
+
+Jak zawsze w siedzibie KSI rozmawialiśmy o ciekawych projektach, nowinkach technologicznych i pomysłach wartych zrealizowania :)
+
+Gościem specjalnym spotkania był dr Bartosz Zieliński, który opowiedział nam o swoich projektach związanych z machine learningiem w analizie obrazów.
+
+
+Oprócz tego nie zabrakło krótkiego podsumowania działalności koła oraz wprowadzenia do RODO by Kuba Kiermasz.
+
+
+Jeszcze raz dziękujemy wszystkim za spotkanie i do zobaczenia w nowym roku akademickim!

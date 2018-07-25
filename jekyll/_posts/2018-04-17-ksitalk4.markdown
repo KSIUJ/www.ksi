@@ -1,0 +1,19 @@
+---
+layout:	halfpage
+title: KSITalk #4
+date:  2018-04-17 13:57:29
+post_img_url: /images/ksitalk4.jpg
+language: pl
+---
+
+Czołem kołowicze!
+Dziękujemy Wam za kolejne spotkanie z serii ksiTalk.
+
+O czym usłyszeliśmy tym razem?
+
+Nasz gość specjalny - Tomasz Sabała opowiedział nam o metodzie Golden master testing. Znany wszystkim Piotr Gabrielski podzieli się swoją wiedzą o RUSTcie.
+
+Natomiast Mateusz Maćkowski (znany również jako m4tx) przedstawił nam swoje podejście do optymalizacji kodu assemblerowego.
+
+
+Dziękujemy wszystkim za liczne przybycie! 

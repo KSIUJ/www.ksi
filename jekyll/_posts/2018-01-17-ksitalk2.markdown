@@ -1,0 +1,14 @@
+---
+layout:	halfpage
+title: KSITalk #2
+date:  2018-01-17 13:57:29
+post_img_url: /images/ksitalk2.jpg
+language: pl
+---
+
+Kolejne spotkanie w ramach KSITalks - serii spotkań raz w miesiącu, na których będziemy dzielić się wiedzą, planować kolejne wydarzenia oraz podsumowywać to, co już się wydarzyło.
+
+Tematem przewodnim ostatniego spotkania były ataki #Meltdown i #Spectre o których opowiedział nam niezastąpiony Michał Zieliński.
+Nie zabrakło również nagród dla najwytrwalszych KSIowych zawodników Advent of Code.
+
+Dziękujemy!

@@ -1,0 +1,17 @@
+---
+layout:	halfpage
+title: KSITalk #1
+date:  2017-11-29 13:57:29
+post_img_url: /images/ksitalk1.jpg
+language: pl
+---
+
+Za nami pierwsze spotkanie w ramach KSITalks - serii spotkań, na których będziemy dzielić się wiedzą, planować kolejne wydarzenia a także podsumowywać to co już za nami :)
+
+
+W czasie spotkania Michał Herda opowiedział nam o podstawach kryptografii, Adam Pardyl o KSIowej dystrybucji linuksa zwanej KSInux, a Dominika Zając przybliżyła nam tematykę Progressive Web Apps!
+
+Dziękujemy wszystkim naszym prelegentom! Pamiętajcie, że Wy również możecie podzielić się swoją wiedzą w czasie kolejnego KSITalka - wystarczy napisać do zarządu :)
+
+
+Do zobaczenia!
