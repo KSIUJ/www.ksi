@@ -36,12 +36,6 @@ Zapraszamy również do obejrzenia video relacji z wydarzenia:
 
 ### Dzień 1
 
-<video controls
-    muted
-    src="https://www.youtube.com/watch?v=uTHPvw_r02U">
-    Sorry, your browser doesn't support embedded videos.
-</video>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uTHPvw_r02U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
