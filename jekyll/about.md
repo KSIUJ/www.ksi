@@ -42,8 +42,8 @@ Ludzie KSI
 - Szymon Smykała - skarbnik
 - Dominik Wołek - sekretarz
 - Michał Herda - administrator serwerowni
-- Mateusz Maćkowski- administrator serwerowni
-- Dominika Zając- członek Komisji Rewizyjnej
+- Mateusz Maćkowski - administrator serwerowni
+- Dominika Zając - członek Komisji Rewizyjnej
 - Jakub Kiermasz - gospodarz
 
 {% gallery %}

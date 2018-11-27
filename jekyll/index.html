@@ -6,3 +6,106 @@ languages:
 subset: frontpage
 title: Koło Studentów Informatyki UJ
 ---
+<!-- Banner -->
+<section id="banner">
+    <div class="inner">
+        <div class="logo"><!--<span class="icon ksi">ξ</span>-->&nbsp;</div>
+        <h2>{% t 'title' %}</h2>
+        <p>{% t 'lead' %}</p>
+    </div>
+</section>
+
+<!-- Wrapper -->
+<section id="wrapper">
+
+    <section id="ksi" class="wrapper spotlight style3">
+        <div class="inner">
+            <a href="/about/" class="image"><img src="/images/sticker.png" alt="" style="background: white"/></a>
+            <div class="content">
+                <h2 class="major">{% t 'section_ksi.title' %}</h2>
+                <p>{% t 'section_ksi.text' %}</p>
+                <a href="/about/" class="special">{% t 'read_more' %}</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="events" class="wrapper alt spotlight style1">
+        <div class="inner">
+            <a href="/events/" class="image"><img src="/images/icon-events.png" alt=""/></a>
+            <div class="content">
+                <h2 class="major">{% t 'section_events.title' %}</h2>
+                <p>{% t 'section_events.text' %} </p>
+                <a href="/events/" class="special">{% t 'read_more' %}</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="centrum-proj" class="wrapper spotlight style2">
+        <div class="inner">
+            <a href="/projects/" class="image"><img src="/images/temp_3d.png" alt=""/></a>
+            <div class="content">
+                <h2 class="major">{% t 'section_proj_center.title' %}</h2>
+                <p>{% t 'section_proj_center.text' %}</p>
+                <a href="/projects/" class="special">{% t 'read_more' %}</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="dydaktyka" class="wrapper spotlight alt style3">
+        <div class="inner">
+            <a href="#" class="image"><img src="/images/ucz-sie-z-ksi.jpg" alt=""/></a>
+            <div class="content">
+                <h2 class="major">{% t 'section_didactics.title' %}</h2>
+                <p>{% t 'section_didactics.text' %}</p>
+                <a href="/about/#dydaktyka" class="special">{% t 'read_more' %}</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="serwerownia" class="wrapper spotlight style1">
+        <div class="inner">
+            <a href="#" class="image"><img src="/images/serwerownia.jpg" alt=""/></a>
+            <div class="content">
+                <h2 class="major">{% t 'section_server_room.title' %}</h2>
+                <p>{% t 'section_server_room.text' %}</p>
+                <a href="/projects/#serwerownia" class="special">{% t 'read_more' %}</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="projekty" class="wrapper spotlight alt style2">
+        <div class="inner">
+            <a href="#" class="image"><img src="/images/octocat_girl.jpg" alt=""/></a>
+            <div class="content">
+                <h2 class="major">{% t 'section_projects.title' %}</h2>
+                <p>{% t 'section_projects.text' %}</p>
+                <a href="/projects/" class="special">{% t 'read_more' %}</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Najnowsze newsy - kilka=4-->
+    <section id="news" class="wrapper style3">
+        <div class="inner">
+            <h2 class="major">{% t 'section_news.title' %}</h2>
+            <p>{% t 'section_news.text' %}</p>
+            <section class="features">
+                {% for post in site.posts %}
+                <article>
+                    {% if post.post_img_url != "" %}
+                    <a href="{{ post.url }}" class="image"><img src="{{ post.post_img_url }}" alt=""/></a>
+                    {% endif; %}
+                    <h3 class="major">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</h3>
+                    {{ post.excerpt }}
+                    <a href="{{ post.url }}" class="special">{% t 'read_more' %}</a>
+                </article>
+                {% if forloop.index == 4 %}
+                {% break %}
+                {% endif %}
+                {% endfor %}
+            </section>
+            <a href="/news/" class="special">{% t 'section_news.more' %}</a>
+        </div>
+    </section>
+
+</section>
