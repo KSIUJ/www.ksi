@@ -36,15 +36,14 @@ Chcesz dowiedzieć się o nas czegoś więcej? Skontaktuj się z nami! Pamiętaj
 Ludzie KSI
 ------
 - prof. dr hab. inż. Marek Skomorowski - opiekun Koła
-- Dominika Zając - prezes
+- Adam Piekarczyk - prezes, administrator serwerowni
 - Wojciech Sabała - wiceprezes
-- Adam Piekarczyk - wiceprezes, administrator serwerowni
+- Adam Pardyl - wiceprezes, administrator serwerowni
 - Szymon Smykała - skarbnik
-- Adam Pardyl - sekretarz, administrator serwerowni
-- Michał Herda - administrator serwerowni, członek Komisji Rewizyjnej
-- Daniel Skowroński - administrator serwerowni
-- Krzysztof Hajto - członek Komisji Rewizyjnej
-- Michał Kawiecki - gospodarz
+- Dominik Wołek - sekretarz
+- Michał Herda - administrator serwerowni
+- Mateusz Maćkowski- administrator serwerowni
+- Dominika Zając- członek Komisji Rewizyjnej
 - Jakub Kiermasz - gospodarz
 
 {% gallery %}
@@ -60,4 +59,3 @@ Ludzie KSI
 Dokumenty
 ------
 - [Statut Koła Studentów Informatyki UJ](/files/statut2017.pdf)
-- [Regulamin Serwerowni KSI UJ](/files/regulaminserwerowni.pdf)
