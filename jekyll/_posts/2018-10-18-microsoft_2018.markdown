@@ -1,0 +1,13 @@
+---
+layout:	halfpage
+title: Microsoft Tech Talk - When code meets the real world
+date:  2018-10-18 19:00:00
+post_img_url: /images/microsoft_2018.jpg
+language: pl
+---
+
+18 października odwiedziła nas firma Microsoft! 
+
+
+
+Więcej zdjęć znajdziecie tutaj: https://www.facebook.com/ksi.uj/posts/2175757335791357
