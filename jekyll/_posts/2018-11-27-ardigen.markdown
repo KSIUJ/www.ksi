@@ -1,0 +1,14 @@
+---
+layout:	halfpage
+title: Czy programista może wyleczyć raka?
+date:  2018-11-27 19:00:00
+post_img_url: /images/ardigen.jpg
+language: pl
+---
+
+We wtorkowy wieczór firma Ardigen przybliżyła nam temat technologii, dzięki którym współczesna informatyka jest w stanie walczyć z chorobami.
+
+Jako informatycy możemy zmieniać świat na wielu płaszczyznach - kto z nas pomyślałby o leczeniu nowotworów?
+
+Dziękujemy wszystkim za udział w wykładzie!
+Więcej zdjęć z wydarzenia: https://www.facebook.com/ksi.uj/posts/2236216266412130
