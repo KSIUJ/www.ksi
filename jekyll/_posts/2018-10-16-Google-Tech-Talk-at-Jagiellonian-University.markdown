@@ -2,7 +2,7 @@
 layout:	halfpage
 title: Google Tech Talk at Jagiellonian University
 date:  2018-10-16 19:00:00
-post_img_url: /images/google_2018.jpeg
+post_img_url: /images/google_2018_min.jpeg
 language: pl
 ---
 
