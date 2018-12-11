@@ -1,0 +1,12 @@
+---
+layout:	halfpage
+title: Facebook & Machine Learning at Jagiellonian
+date:  2018-10-29 19:00:00
+post_img_url: /images/facebook-min.jpg
+language: pl
+---
+
+29 października nasz wydział odwiedził Facebook. Mieliśmy okazję posłuchać o Machine Learningu, który jest stosowany przez firmę do targetowania reklam pod konkretnych odbiorców. 
+
+Dziękujemy wszystkim przybyłym - to dzięki Wam atmosfera była jak zawsze niepowtarzalna!
+Do zobaczenia na następnych wydarzeniach!
