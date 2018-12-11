@@ -2,7 +2,7 @@
 layout:	halfpage
 title: Czy programista może wyleczyć raka?
 date:  2018-11-27 19:00:00
-post_img_url: /images/ardigen.jpg
+post_img_url: /images/ardigen-min.jpg
 language: pl
 ---
 
