@@ -1,122 +1,181 @@
 {% include skel_begin.html %}
 
-		<!-- Page Wrapper -->
-			<div id="page-wrapper">
+<!-- Page Wrapper -->
+<div id="page-wrapper">
 
-				<!-- Header -->
-					{% include menu.html %}
+    <!-- Header -->
+    {% include menu.html %}
 
-				<!-- Wrapper -->
-					<section id="wrapper">
-						<header>
-							<div class="inner">
-								<h2>{{ page.title }}</h2>
-								<!--<p>{{ page.excerpt }}</p>-->
-							</div>
-						</header>
+    <!-- Wrapper -->
+    <section id="wrapper">
+        <header>
+            <div class="inner">
+                <h2>{{ page.title }}</h2>
+                <!--<p>{{ page.excerpt }}</p>-->
+            </div>
+        </header>
 
-						<!-- Content -->
-							<div class="wrapper">
-								<div class="inner">
+        <!-- Content -->
+        <div class="wrapper">
+            <div class="inner">
 
-									{{ page.excerpt }}
-<hr />
-<style>
-  .decade{
-    min-height: 300px;
-  }
-  .year h3, .decade h1 {
-    margin-bottom: 0px;
-  }
-  .year {
-    margin-bottom: 15px;
-		border-top: 1px dashed white;
-  }
-  .func_header {
-    font-size: 16px;
-    text-transform: uppercase;
-    border-left: 1px solid white;
-    padding-left: 3px;
-  }
-  .zarzad_czlowiek {
-    display: inline-block;
-  }
-  #decade_navigator{
-    position: absolute;
-    width: 100px;
-  }
-	.year_body {
-		text-align: justify;
-		margin-bottom: 5px;
-	}
-	#decade_navigator {
-		width: 50px;
-	}
+                {{ page.excerpt }}
+                <hr/>
+                <style>
+                    .decade {
+                        min-height: 300px;
+                    }
 
+                    .year h3, .decade h1 {
+                        margin-bottom: 0px;
+                    }
 
-	@media (max-width: 800px){
-		.decade_link { font-size: 32px; }
-		#decade_viewer{   margin-left: 80px; }
-		.decade h1 {font-size: 36px;  }
-		.year h3 {font-size: 20px;	}
-	}
-	@media (max-width: 400px){
-		.decade_link { font-size: 24px; }
-		#decade_navigator { width: 50px; }
-		#decade_viewer{   margin-left: 60px; }
-		.decade h1 {font-size: 28px;  }
-		.year h3 {font-size: 16px;	}
-	}
-	@media (min-width: 800px){
-		.decade_link { font-size: 42px; }
-		#decade_viewer{   margin-left: 150px; }
-		.decade h1 {font-size: 44px;  }
-		.year h3 {font-size: 28px;	}
-	}
-</style>
+                    .year {
+                        margin-bottom: 15px;
+                        border-top: 1px dashed white;
+                    }
 
-{% assign decades_data =(site.data.ksi_decades | sort | order: 'name') %}
+                    .func_header {
+                        font-size: 16px;
+                        text-transform: uppercase;
+                        border-left: 1px solid white;
+                        padding-left: 3px;
+                    }
 
-<div id="decade_navigator">
-  {% for decade_hash in decades_data %}
-  {% assign decade = decade_hash[1] %}
-    <div class="decade_link" id="decade_link_{{decade_hash.first}}">
-      <a href="javascript:openDecade({{decade_hash.first}})">{{ decade.name }}</a>
-    </div>
-  {% endfor %}
+                    .zarzad_czlowiek {
+                        display: inline-block;
+                    }
+
+                    #decade_navigator {
+                        position: absolute;
+                        width: 100px;
+                    }
+
+                    .year_body {
+                        text-align: justify;
+                        margin-bottom: 5px;
+                    }
+
+                    #decade_navigator {
+                        width: 50px;
+                    }
+
+                    @media (max-width: 800px) {
+                        .decade_link {
+                            font-size: 32px;
+                        }
+
+                        #decade_viewer {
+                            margin-left: 80px;
+                        }
+
+                        .decade h1 {
+                            font-size: 36px;
+                        }
+
+                        .year h3 {
+                            font-size: 20px;
+                        }
+                    }
+
+                    @media (max-width: 400px) {
+                        .decade_link {
+                            font-size: 24px;
+                        }
+
+                        #decade_navigator {
+                            width: 50px;
+                        }
+
+                        #decade_viewer {
+                            margin-left: 60px;
+                        }
+
+                        .decade h1 {
+                            font-size: 28px;
+                        }
+
+                        .year h3 {
+                            font-size: 16px;
+                        }
+                    }
+
+                    @media (min-width: 800px) {
+                        .decade_link {
+                            font-size: 42px;
+                        }
+
+                        #decade_viewer {
+                            margin-left: 150px;
+                        }
+
+                        .decade h1 {
+                            font-size: 44px;
+                        }
+
+                        .year h3 {
+                            font-size: 28px;
+                        }
+                    }
+                </style>
+
+                {% assign decades_data =(site.data.ksi_decades | sort | order: 'name') %}
+
+                <div id="decade_navigator">
+                    {% for decade_hash in decades_data %}
+                    {% assign decade = decade_hash[1] %}
+                    <div class="decade_link" id="decade_link_{{decade_hash.first}}">
+                        <a href="javascript:openDecade({{decade_hash.first}})">{{ decade.name }}</a>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <div id="decade_viewer">
+                    {% for decade_hash in decades_data %}
+                    {% assign decade = decade_hash[1] %}
+                    <div class="decade" id="decade_{{decade_hash.first}}">
+                        <h1>{{ decade.name }}-{{ decade.name | plus:10 }}</h1>
+                        {% for year in decade.years %}
+                        <div class="year" id="year_{{ year.year }}">
+                            <h3>{{ year.year }}/{{ year.year | plus:1 }} {% if year.header != nil %}- {{ year.header
+                                }}{% endif %}</h3>
+                            {% if year.body != nil %}
+                            <div class="year_body">{{ year.body }}</div>
+                            {% endif %}
+                            {% if year.zarzad_info %}
+                            <div class="zarzad_czlowiek">{% if year.prezes != nil %}<span
+                                    class="func_header">prezes:</span> {{ year.prezes }} {% endif %}
+                            </div>
+                            <div class="zarzad_czlowiek">{% if year.vice != nil %}<span
+                                    class="func_header">wiceprezesi:</span> {{ year.vice }} {% endif %}
+                            </div>
+                            <div class="zarzad_czlowiek">{% if year.skarbnik != nil %}<span class="func_header">skarbnik:</span>
+                                {{ year.skarbnik }} {% endif %}
+                            </div>
+                            <div class="zarzad_czlowiek">{% if year.sekretarz != nil %}<span class="func_header">sekretarz:</span>
+                                {{ year.sekretarz }} {% endif %}
+                            </div>
+                            <div class="zarzad_czlowiek">{% if year.biblioteka != nil %}<span class="func_header">biblioteka:</span>
+                                {{ year.biblioteka }} {% endif %}
+                            </div>
+                            <div class="zarzad_czlowiek">{% if year.gospodarz != nil %}<span class="func_header">gospodarz:</span>
+                                {{ year.gospodarz }} {% endif %}
+                            </div>
+                            {% endif %}
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- Footer -->
+    {% include footer.html %}
+
 </div>
-
-<div id="decade_viewer">
-{% for decade_hash in decades_data %}
-{% assign decade = decade_hash[1] %}
-  <div class="decade" id="decade_{{decade_hash.first}}">
-    <h1>{{ decade.name }}-{{ decade.name | plus:10 }}</h1>
-    {% for year in decade.years %}
-    <div class="year" id="year_{{ year.year }}">
-      <h3>{{ year.year }}/{{ year.year | plus:1 }} {% if year.header != nil %}- {{ year.header }}{% endif %}</h3>
-      {% if year.body != nil %}<div class="year_body">{{ year.body }} </div> {% endif %}
-      {% if year.zarzad_info %}
-        <div class="zarzad_czlowiek">{% if year.prezes != nil %}<span class="func_header">prezes:</span> {{ year.prezes }} {% endif %}</div>
-        <div class="zarzad_czlowiek">{% if year.vice != nil %}<span class="func_header">wiceprezesi:</span> {{ year.vice }} {% endif %}</div>
-        <div class="zarzad_czlowiek">{% if year.skarbnik != nil %}<span class="func_header">skarbnik:</span> {{ year.skarbnik }} {% endif %}</div>
-        <div class="zarzad_czlowiek">{% if year.sekretarz != nil %}<span class="func_header">sekretarz:</span> {{ year.sekretarz }} {% endif %}</div>
-        <div class="zarzad_czlowiek">{% if year.biblioteka != nil %}<span class="func_header">biblioteka:</span> {{ year.biblioteka }} {% endif %}</div>
-        <div class="zarzad_czlowiek">{% if year.gospodarz != nil %}<span class="func_header">gospodarz:</span> {{ year.gospodarz }} {% endif %}</div>
-      {% endif %}
-    </div>
-    {% endfor %}
-  </div>
-{% endfor %}
-</div>
-								</div>
-							</div>
-
-					</section>
-
-				<!-- Footer -->
-					{% include footer.html %}
-
-			</div>
 
 {% include jquery.html %}
 <script src="/js/history.js"></script>

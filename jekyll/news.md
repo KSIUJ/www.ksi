@@ -6,8 +6,6 @@ excerpt:
 languages:
 - pl
 ---
-Konferencje, warsztaty, wykłady, najnowsze przedsięwzięcia - w tej zakładce zawsze znajdziesz to czym obecnie żyje nasze Koło.
-
 <div>
 <section class="features">
 {% for post in site.posts %}
@@ -15,7 +13,7 @@ Konferencje, warsztaty, wykłady, najnowsze przedsięwzięcia - w tej zakładce 
 		{% if post.post_img_url != "" %}
     		<a href="{{ post.url }}" class="image"><img src="{{ post.post_img_url }}" alt="" /></a>
     	{% endif; %}
-		<h3 class="major">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</h3>
+		<h3 class="major">{{ post.date | date: "%d.%m.%Y" }}</h3>
 		{{ post.excerpt }}
 		<a href="{{ post.url }}" class="special">Czytaj więcej</a>	
     </article>

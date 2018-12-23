@@ -10,18 +10,16 @@
     <section id="wrapper">
         <header>
             <div class="inner">
-                <h2>{{ page.title }}</h2>
-                {% if page.data != "" %}
-                <p>{{ page.date | date: "%Y-%m-%d" }}</p>
-                {% endif; %}
             </div>
         </header>
 
         <!-- Content -->
         <div class="wrapper">
             <div class="inner">
-
-                {% if page.post_img_url %}
+                {% if page.data != "" %}
+                <p>{{ page.date | date: "%Y-%m-%d" }}</p>
+                {% endif; %}
+                {% if page.post_img_url != "" %}
                 <p><img src="{{page.post_img_url}}" id="post_img"/></p>
                 {% endif; %}
 
