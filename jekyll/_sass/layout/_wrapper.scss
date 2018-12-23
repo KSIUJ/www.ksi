@@ -16,7 +16,7 @@
 
 	#wrapper {
 		> header {
-			@include padding(7.5em, 0, (3.5em, 0, _size(wrapper-edges, large) * -0.5, 0));
+			@include padding(3.5em, 0, (3.5em, 0, _size(wrapper-edges, large) * -0.5, 0));
 
 			.inner {
 				margin: 0 auto;
@@ -135,7 +135,7 @@
 		}
 
 		.inner {
-			@include padding(3em, 0);
+			@include padding(1em, 0);
 			margin: 0 auto;
 			width: _size(inner);
 		}
