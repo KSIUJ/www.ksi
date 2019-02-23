@@ -14,7 +14,7 @@ languages:
     		<a href="{{ post.url }}" class="image"><img src="{{ post.post_img_url }}" alt="" /></a>
     	{% endif; %}
 		<h3 class="major">{{ post.date | date: "%d.%m.%Y" }}</h3>
-		{{ post.excerpt }}
+		{{ post.excerpt | strip_html | truncatewords: 50 }}
 		<a href="{{ post.url }}" class="special">Czytaj więcej</a>	
     </article>
 {% endfor %}
