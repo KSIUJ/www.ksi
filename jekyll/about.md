@@ -46,6 +46,8 @@ Ludzie KSI
 - Dominika Zając - członek Komisji Rewizyjnej
 - Jakub Kiermasz - gospodarz
 
+{% picture photos/pages/about/ksircianka.jpg %}
+
 {% gallery %}
 /photos/pages/about/ksircianka.jpg: Gra o naszym Kole
 /photos/pages/about/my.jpg: 4/5 zarządu podczas Google Hash Code

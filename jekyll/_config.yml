@@ -1,10 +1,12 @@
 # Build settings
 markdown: kramdown
 
-gems:
+plugins:
 - jekyll-language-plugin
 - jekyll-sitemap
-- jekyll-seo-tag #experimental
+- jekyll-seo-tag
+- jekyll-picture-tag
+- jekyll-paginate-v2
 
 language_data: data.%%
 language_includes_dir: _i18n
@@ -19,3 +21,14 @@ social:
     - https://github.com/ksiuj
     - https://instagram.com/ksiuj
 google_site_verification: itaBFyu7_-vU6FYw0hKhfel6XlK3jx-daMyl4FIlQSk
+
+picture:
+  nomarkdown: false
+  suppress_warnings: true
+
+pagination:
+  enabled: true
+  per_page: 20
+  permalink: '/:num/'
+  sort_reverse: true
+  title: ':title - :num'

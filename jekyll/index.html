@@ -93,7 +93,7 @@ title: Koło Studentów Informatyki UJ
                 {% for post in site.posts %}
                 <article>
                     {% if post.post_img_url != "" %}
-                    <a href="{{ post.url }}" class="image"><img src="{{ post.post_img_url }}" alt=""/></a>
+                    {% picture halfpage {{ post.post_img_url }} --link {{ post.url }} --a class="image" %}
                     {% endif; %}
                     <h3 class="major">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</h3>
                     {{ post.excerpt }}

@@ -1,0 +1,25 @@
+media_presets:
+  mobile: 'max-width: 640px'
+  tablet: 'max-width: 980px'
+  desktop: 'min-width: 981px'
+
+markup_presets:
+  default:
+    widths: [600, 900, 1200]
+    formats: [webp, original]
+
+  halfpage:
+    widths: [400, 600, 800]
+    formats: [webp, original]
+    sizes:
+      mobile: 95vw
+      tablet: 45vw
+      desktop: 40vw
+
+  fullpage:
+    widths: [600, 900, 1210]
+    formats: [webp, original]
+    sizes:
+      mobile: 95vw
+      tablet: 95vw
+      desktop: 85vw
