@@ -31,7 +31,7 @@
                             {% picture halfpage {{ post.post_img_url }} --link {{ post.url }} --a class="image" %}
                             {% endif; %}
                             <h3 class="major">{{ post.date | date: "%d.%m.%Y" }}</h3>
-                            {{ post.excerpt | strip_html | truncatewords: 50 }}
+                            <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
                             <a href="{{ post.url }}" class="special">Czytaj więcej</a>
                         </article>
                         {% endfor %}
@@ -39,17 +39,27 @@
                 </div>
 
                 {% if paginator.total_pages > 1 %}
-                <ul class="pager">
-                    {% if paginator.previous_page %}
+                <ul class="pagination">
                     <li>
-                        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="next">{% t 'list.next' %}</a>
+                        {% if paginator.previous_page %}
+                        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"
+                           class="button small">{% t 'list.previous' %}</a>
+                        {% else %}
+                        <span class="button small disabled">{% t 'list.previous' %}</span>
+                        {% endif %}
                     </li>
-                    {% endif %}
-                    {% if paginator.next_page %}
                     <li>
-                        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="previous">{% t 'list.previous' %}</a>
+                        <a href="#" class="page active">{{paginator.page}}</a>
                     </li>
-                    {% endif %}
+                    <li>
+                        {% if paginator.next_page %}
+                        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"
+                           class="button small">{% t 'list.next' %}</a>
+                        {% else %}
+                        <span class="button small disabled">{% t 'list.next' %}</span>
+                        {% endif %}
+                    </li>
+
                 </ul>
                 {% endif %}
 

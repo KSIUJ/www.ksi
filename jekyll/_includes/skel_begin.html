@@ -22,9 +22,14 @@
     </script>
 
     <meta charset="utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
     <link rel="stylesheet" href="/css/main.css"/>
-    <meta property="og:image" content="{{ site.url }}{% if page.post_img_url %}{{ page.post_img_url }}{% else %}{{ site.social_logo }}{% endif %}"/>
+    <noscript>
+        <link rel="stylesheet" href="/css/noscript.css"/>
+    </noscript>
+
+    <meta property="og:image"
+          content="{{ site.url }}{% if page.post_img_url %}{{ page.post_img_url }}{% else %}{{ site.social_logo }}{% endif %}"/>
 
     <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
@@ -40,7 +45,7 @@
 
     {% seo %}
 </head>
-<body>
+<body class="is-preload">
 <!--[if lte IE 9]>
 <h1 style="margin-top: 100px">Your browser version is awfully out of date and is not supported!</h1>
 <![endif]-->

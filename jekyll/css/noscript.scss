@@ -1,0 +1,38 @@
+---
+---
+
+@import '../_sass/libs/vars';
+@import '../_sass/libs/functions';
+@import '../_sass/libs/mixins';
+@import '../_sass/libs/vendor';
+@import '../_sass/libs/breakpoints';
+@import '../_sass/libs/html-grid';
+
+/*
+	Solid State by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/* Banner */
+
+	#banner {
+		body.is-preload & {
+			.logo {
+				@include vendor('transform', 'none');
+				opacity: 1;
+			}
+
+			h2 {
+				opacity: 1;
+				@include vendor('transform', 'none');
+				@include vendor('filter', 'none');
+			}
+
+			p {
+				opacity: 01;
+				@include vendor('transform', 'none');
+				@include vendor('filter', 'none');
+			}
+		}
+	}

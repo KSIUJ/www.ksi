@@ -12,7 +12,7 @@
 	#header ul.links{
 		display: inline-block;
 	}
-	@include breakpoint(menucritical) {
+	@include breakpoint('<=medium') {
 		#header nav a#menu-button {
 			display: inline-block !important;
 		}
