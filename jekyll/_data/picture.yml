@@ -23,3 +23,11 @@ markup_presets:
       mobile: 95vw
       tablet: 95vw
       desktop: 85vw
+
+  logo:
+    widths: [300, 600, 900, 1200]
+    formats: [webp, jpg, original]
+    sizes:
+      mobile: 80vw
+      tablet: 45vw
+      desktop: 30vw
