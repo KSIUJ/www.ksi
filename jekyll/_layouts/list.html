@@ -43,9 +43,9 @@
                     <li>
                         {% if paginator.previous_page %}
                         <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"
-                           class="button small">{% t 'list.previous' %}</a>
+                           class="button small">{% t 'list.next' %}</a>
                         {% else %}
-                        <span class="button small disabled">{% t 'list.previous' %}</span>
+                        <span class="button small disabled">{% t 'list.next' %}</span>
                         {% endif %}
                     </li>
                     <li>
@@ -54,9 +54,9 @@
                     <li>
                         {% if paginator.next_page %}
                         <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"
-                           class="button small">{% t 'list.next' %}</a>
+                           class="button small">{% t 'list.previous' %}</a>
                         {% else %}
-                        <span class="button small disabled">{% t 'list.next' %}</span>
+                        <span class="button small disabled">{% t 'list.previous' %}</span>
                         {% endif %}
                     </li>
 

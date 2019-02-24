@@ -10,3 +10,11 @@ Wspólnych zmagań z sesją ciąg dalszy! Zapraszamy (standardowo do siedziby KS
 
 - ASD - środa 17 lutego o 13:00
 - WDI - piątek 19 lutego o 13:00
+
+A tak było ostatnio na bazach danych:
+
+{% gallery %}
+images/sesja_zimowa_2016_bazy_danych/sesja_zimowa_2016_bazy_danych_0.jpg
+images/sesja_zimowa_2016_bazy_danych/sesja_zimowa_2016_bazy_danych_1.jpg
+images/sesja_zimowa_2016_bazy_danych/sesja_zimowa_2016_bazy_danych_2.jpg
+{% endgallery %}
