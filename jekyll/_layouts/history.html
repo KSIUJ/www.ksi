@@ -119,7 +119,7 @@
                     }
                 </style>
 
-                {% assign decades_data =(site.data.ksi_decades | sort | order: 'name') %}
+                {% assign decades_data = site.data.ksi_decades | sort %}
 
                 <div id="decade_navigator">
                     {% for decade_hash in decades_data %}
