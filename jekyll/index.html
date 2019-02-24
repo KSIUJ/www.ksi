@@ -89,7 +89,7 @@ title: Koło Studentów Informatyki UJ
             <h2 class="major">{% t 'section_news.title' %}</h2>
             <p>{% t 'section_news.text' %}</p>
             <section class="features">
-            {% for post in site.posts %}
+            {% for post in site.posts limit:4 %}
                 <article>
                     {% if post.post_img_url != "" %}
                         {% picture halfpage {{ post.post_img_url }} --link {{ post.url }} --a class="image" %}
@@ -98,9 +98,6 @@ title: Koło Studentów Informatyki UJ
                     {{ post.excerpt }}
                     <a href="{{ post.url }}" class="special">{% t 'read_more' %}</a>
                 </article>
-                {% if forloop.index == 4 %}
-                    {% break %}
-                {% endif %}
             {% endfor %}
             </section>
             <a href="/news/" class="special">{% t 'section_news.more' %}</a>
