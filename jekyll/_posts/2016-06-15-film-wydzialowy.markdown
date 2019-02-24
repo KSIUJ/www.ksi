@@ -9,4 +9,4 @@ Już jest! [Film promocyjny Wydziału Matematyki i Informatyki UJ](https://www.y
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kksu-E0vrFI" frameborder="0" allowfullscreen></iframe>
 
-{% image_set photos/posts/krecenie_filmu %}
+{% photo images/krecenie_filmu/krecenie_filmu.jpg %}

@@ -15,6 +15,9 @@ language_includes_dir: _i18n
 title: "Koło Studentów Informatyki UJ"
 description: "Witaj na stronie najlepszego koła naukowego na świecie!"
 url: "https://ksi.ii.uj.edu.pl"
+
+social_logo: "/images/logo_for_fb.png"
+
 social:
   links:
     - https://www.facebook.com/ksi.uj

@@ -31,3 +31,21 @@ markup_presets:
       mobile: 80vw
       tablet: 45vw
       desktop: 30vw
+
+  gallery:
+    widths: [300, 600, 900, 1200]
+    formats: [webp, original]
+    sizes:
+      mobile: 90vw
+      tablet: 45vw
+      desktop: 30vw
+    link_source: true
+
+  gallery-full:
+    widths: [300, 600, 900, 1210]
+    formats: [webp, original]
+    sizes:
+      mobile: 90vw
+      tablet: 90vw
+      desktop: 70vw
+    link_source: true
