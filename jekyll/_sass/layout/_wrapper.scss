@@ -138,6 +138,10 @@
 			@include padding(1em, 0);
 			margin: 0 auto;
 			width: _size(inner);
+
+			img {
+				max-width: 100%;
+			}
 		}
 
 		@for $i from 2 through _misc(max-wrapper-styles) {

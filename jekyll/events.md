@@ -18,5 +18,3 @@ Poniżej przedstawiamy najważniejsze z organizowanych i współorganizowanych p
 - Film promocyjny WMiI
 
 Masz pomysł na kolejne wydarzenie, które możemy zorganizować? Skontaktuj się z nami!
-
-{% image_set photos/pages/events %}

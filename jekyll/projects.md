@@ -24,5 +24,3 @@ Dzień Wydziału to jedno z największych wydarzeń organizowanych na naszym Wyd
 To nasz system wydruku przez przegląarkę razem z modułem dla administratorów.
 - KSIrcianka \\
 Najmniej techniczny, za to najbardziej chyba popularny z realizowanych przez nas projektów. Gra karciana całkowicie oparta na działalności naszego Koła - wszystkie postaci oraz wydarzenia w grze mają swoje odzwierciedlenie w rzeczywistym życiu. Błąd USOSa, wypad do Kauflandu po drodze na Wydział czy egzamin z dyskretnej - kto ze studentów naszego wydziału nie miał z nimi do czynienia? Cel jest prosty - nie dać się wyrzucić ze studiów! Jesteś na tyle odważny by zaryzykować? Wpadnij do siedziby naszego Koła i rozegraj partyjkę (lub trzy :) ) KSIrcianki.
-
-{% image_set photos/pages/projects %}
