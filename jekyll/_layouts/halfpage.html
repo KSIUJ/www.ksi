@@ -22,7 +22,7 @@
             <div class="inner">
 
                 {% if page.post_img_url %}
-                <p>{% picture fullpage {{page.post_img_url}} id="post_img" %}</p>
+                <span class="image fit align-center">{% picture fullpage {{page.post_img_url}} class="post-img" %}</span>
                 {% endif; %}
 
                 {{ content }}
