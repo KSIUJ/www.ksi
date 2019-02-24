@@ -22,7 +22,7 @@
             <div class="inner">
 
                 {% if page.post_img_url %}
-                <p><img src="{{page.post_img_url}}" id="post_img"/></p>
+                <p>{% picture fullpage {{page.post_img_url}} id="post_img" %}</p>
                 {% endif; %}
 
                 {{ content }}
@@ -36,5 +36,4 @@
     {% include footer.html %}
 
 </div>
-{% include jquery.html %}
 {% include skel_end.html %}

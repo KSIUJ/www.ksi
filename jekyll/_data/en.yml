@@ -38,9 +38,13 @@ frontpage:
 
 menu:
   homepage: Homepage
-  news:     News
+  news:     News (PL)
   about:    About KSI
   history:  History
   events:   Events
   projects: Projects
   contact:  Contact
+
+list:
+  next: Newer posts
+  previous: Older posts

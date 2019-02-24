@@ -31,9 +31,12 @@
 				position: relative;
 				width: calc(100% + #{3.5em});
 
-				img {
+				img, picture {
 					border-radius: _size(border-radius) _size(border-radius) 0 0;
-					width: 100%;
+					max-width: 100%;
+					max-height: 20em;
+					margin-left: auto;
+					margin-right: auto;
 				}
 			}
 		}

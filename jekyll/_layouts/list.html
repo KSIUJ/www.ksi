@@ -1,0 +1,65 @@
+{% include skel_begin.html %}
+
+<!-- Page Wrapper -->
+<div id="page-wrapper">
+
+    <!-- Header -->
+    {% include menu.html %}
+
+    <!-- Wrapper -->
+    <section id="wrapper">
+        <header>
+            <div class="inner">
+                <h2>{{ page.title }}</h2>
+                {% if page.data != "" %}
+                <p>{{ page.date | date: "%Y-%m-%d" }}</p>
+                {% endif; %}
+            </div>
+        </header>
+
+        <!-- Content -->
+        <div class="wrapper">
+            <div class="inner">
+
+                {{ content }}
+
+                <div>
+                    <section class="features">
+                        {% for post in paginator.posts %}
+                        <article>
+                            {% if post.post_img_url != "" %}
+                            {% picture halfpage {{ post.post_img_url }} --link {{ post.url }} --a class="image" %}
+                            {% endif; %}
+                            <h3 class="major">{{ post.date | date: "%d.%m.%Y" }}</h3>
+                            {{ post.excerpt | strip_html | truncatewords: 50 }}
+                            <a href="{{ post.url }}" class="special">Czytaj więcej</a>
+                        </article>
+                        {% endfor %}
+                    </section>
+                </div>
+
+                {% if paginator.total_pages > 1 %}
+                <ul class="pager">
+                    {% if paginator.previous_page %}
+                    <li>
+                        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="next">{% t 'list.next' %}</a>
+                    </li>
+                    {% endif %}
+                    {% if paginator.next_page %}
+                    <li>
+                        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="previous">{% t 'list.previous' %}</a>
+                    </li>
+                    {% endif %}
+                </ul>
+                {% endif %}
+
+            </div>
+        </div>
+
+    </section>
+
+    <!-- Footer -->
+    {% include footer.html %}
+
+</div>
+{% include skel_end.html %}

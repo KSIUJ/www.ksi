@@ -20,7 +20,7 @@ title: Koło Studentów Informatyki UJ
 
     <section id="ksi" class="wrapper spotlight style3">
         <div class="inner">
-            <a href="/about/" class="image"><img src="/images/sticker.png" alt="" style="background: white"/></a>
+            {% picture logo images/base/logo-ksi.png --link /about/ --a class="image" %}
             <div class="content">
                 <h2 class="major">{% t 'section_ksi.title' %}</h2>
                 <p>{% t 'section_ksi.text' %}</p>
@@ -31,7 +31,7 @@ title: Koło Studentów Informatyki UJ
 
     <section id="events" class="wrapper alt spotlight style1">
         <div class="inner">
-            <a href="/events/" class="image"><img src="/images/icon-events.png" alt=""/></a>
+            {% picture logo images/base/icon-events.png --link /events/ --a class="image" %}
             <div class="content">
                 <h2 class="major">{% t 'section_events.title' %}</h2>
                 <p>{% t 'section_events.text' %} </p>
@@ -42,7 +42,7 @@ title: Koło Studentów Informatyki UJ
 
     <section id="centrum-proj" class="wrapper spotlight style2">
         <div class="inner">
-            <a href="/projects/" class="image"><img src="/images/temp_3d.png" alt=""/></a>
+            {% picture logo images/base/temp_3d.png --link /projects/ --a class="image" %}
             <div class="content">
                 <h2 class="major">{% t 'section_proj_center.title' %}</h2>
                 <p>{% t 'section_proj_center.text' %}</p>
@@ -84,25 +84,21 @@ title: Koło Studentów Informatyki UJ
         </div>
     </section>
 
-    <!-- Najnowsze newsy - kilka=4-->
     <section id="news" class="wrapper style3">
         <div class="inner">
             <h2 class="major">{% t 'section_news.title' %}</h2>
             <p>{% t 'section_news.text' %}</p>
             <section class="features">
-                {% for post in site.posts %}
+            {% for post in site.posts limit:4 %}
                 <article>
                     {% if post.post_img_url != "" %}
-                    <a href="{{ post.url }}" class="image"><img src="{{ post.post_img_url }}" alt=""/></a>
+                        {% picture halfpage {{ post.post_img_url }} --link {{ post.url }} --a class="image" %}
                     {% endif; %}
                     <h3 class="major">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</h3>
                     {{ post.excerpt }}
                     <a href="{{ post.url }}" class="special">{% t 'read_more' %}</a>
                 </article>
-                {% if forloop.index == 4 %}
-                {% break %}
-                {% endif %}
-                {% endfor %}
+            {% endfor %}
             </section>
             <a href="/news/" class="special">{% t 'section_news.more' %}</a>
         </div>

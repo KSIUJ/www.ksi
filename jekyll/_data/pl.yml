@@ -44,3 +44,7 @@ menu:
   events:   Wydarzenia
   projects: Projekty
   contact:  Kontakt
+
+list:
+  next: Nowsze posty
+  previous: Starsze posty

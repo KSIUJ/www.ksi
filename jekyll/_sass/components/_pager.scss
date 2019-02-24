@@ -1,0 +1,90 @@
+.pager {
+  text-align: center;
+
+  li {
+    display: inline-block;
+  }
+
+  a {
+    @include vendor('transition', 'color #{_duration(transition)} ease-in-out, border-bottom-color #{_duration(transition)} ease-in-out');
+    color: _palette(fg-bold);
+    text-decoration: none;
+    border-bottom: 0;
+    font-family: _font(family-heading);
+    font-size: 0.8em;
+    font-weight: _font(weight-heading-bold);
+    letter-spacing: _font(kern-heading);
+    margin: 0 0 _size(element-margin) 0;
+    text-transform: uppercase;
+
+    &:hover {
+      border-bottom-color: transparent;
+      color: _palette(fg-bold) !important;
+
+      &:before {
+        background-color: _palette(border-bg);
+      }
+    }
+
+    &.next:not(.button) {
+      &:before {
+        -moz-osx-font-smoothing: grayscale;
+        -webkit-font-smoothing: antialiased;
+        font-family: FontAwesome;
+        font-style: normal;
+        font-weight: normal;
+        text-transform: none !important;
+        @include vendor('transition', 'background-color #{_duration(transition)} ease-in-out');
+        border-radius: 100%;
+        border: solid 2px _palette(border);
+        content: '\f104';
+        display: inline-block;
+        font-size: 1.25em;
+        height: 2em;
+        line-height: 1.65em;
+        margin-right: 0.85em;
+        text-align: center;
+        text-indent: 0.15em;
+        vertical-align: middle;
+        width: 2em;
+      }
+
+      &:hover {
+        &:before {
+          background-color: _palette(border-bg);
+        }
+      }
+      margin-right: 5em;
+    }
+
+    &.previous:not(.button) {
+      &:after {
+        -moz-osx-font-smoothing: grayscale;
+        -webkit-font-smoothing: antialiased;
+        font-family: FontAwesome;
+        font-style: normal;
+        font-weight: normal;
+        text-transform: none !important;
+        @include vendor('transition', 'background-color #{_duration(transition)} ease-in-out');
+        border-radius: 100%;
+        border: solid 2px _palette(border);
+        content: '\f105';
+        display: inline-block;
+        font-size: 1.25em;
+        height: 2em;
+        line-height: 1.65em;
+        margin-left: 0.85em;
+        text-align: center;
+        text-indent: 0.15em;
+        vertical-align: middle;
+        width: 2em;
+      }
+
+      &:hover {
+        &:after {
+          background-color: _palette(border-bg);
+        }
+      }
+    }
+  }
+}
