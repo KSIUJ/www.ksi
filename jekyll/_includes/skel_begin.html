@@ -6,8 +6,7 @@
 
 	Adapted for KSI by KSI - ksi.ii.uj.edu.pl
 -->
-<html xmlns="//www.w3.org/1999/xhtml"
-      xmlns:fb="//ogp.me/ns/fb#">
+<html xmlns="//www.w3.org/1999/xhtml" xmlns:fb="//ogp.me/ns/fb#">
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-85101492-2"></script>
@@ -22,11 +21,10 @@
         gtag('config', 'UA-85101492-2');
     </script>
 
-    <!--<title>{{ page.title }} - KSI UJ</title>-->
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link rel="stylesheet" href="/css/main.css"/>
-    <meta property="og:image" content="/images/logo_for_fb.png"/>
+    <meta property="og:image" content="{{ site.url }}{% if page.post_img_url %}{{ page.post_img_url }}{% else %}{{ site.social_logo }}{% endif %}"/>
 
     <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
