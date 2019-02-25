@@ -1,7 +1,8 @@
+read_more: Read more
+
 frontpage:
   title: Computer Science Students' Association - KSI UJ
   lead: Welcome on website of the best Students Association in the world :)
-  read_more: Read more
 
   section_ksi:
     title:  Computer Science Students' Association
@@ -48,3 +49,20 @@ menu:
 list:
   next: Newer posts
   previous: Older posts
+
+events:
+  title: Events
+  sfi_name: SFI Academic IT Festival
+  sfi_text: An international IT conference organized by students, for students. Since 2005, in cooperation with students' associations from 3 other Krakow universities and academies, every year we invite lecturers from all over the world. The list of our former speakers includes Andrew S. Tanenbaum, Thomas Cormen, Larry Wall, Richard Stallman and Kevin Warwick. During the three days of conference dozens of lectures and workshops take place, that attract attention of several thousands of participants every year. Financially speaking, it is absolutely free. The only ticket you will ever need is passion and interest.
+  ksitalk: ksiTalk is our monthly student seminar. The purpose of regular meetings is sharing knowledge, broadening horizons in the field of Computer Science and polishing rhetorical skills necessary in scientific career. On every seminar a lecture is conducted by an invited researcher, as to allow students to establish closer contact with science and potentially begin scientific collaboration. Afterwards at least two members of KSI presents their own science projects, interesting issues or thought-provoking science papers.
+  corp_name: Lectures and workshops in cooperation with IT firms
+  corp_desc: At KSI we understand the importance of cooperation between science and business.
+  ksicamp: Specially for first year students we dedicate a series of weekend workshops, introducing to programming, programmers' toolkit and team project development. Taking part in ksiCamp allows you to swiftly start your Computer Science studies and gives an opportunity to practice your newly acquired knowledge by solving real-world problems.
+  science_fests: Science festivals
+  science_fests_desc: Popularization of computer science from an early age.
+  mnn: Lesser Poland Researchers' Night
+  mnn_desc: Game design workshop for children
+  fnis: Science and Arts Festival in Krakow
+  fnis_desc: KSI tent on the Main Market Square in Krakow
+  co_op: Organize events with KSI UJ
+  co_op_desc: Do you want to conduct a lecture or a workshop at the Faculty of Mathematics and Computer Science of the Jagiellonian University? Your company tries to establish contact with students? Or maybe you are a student and you want to conduct your first lecture ever? We can help you! Write us a message or visit our headquarter.
