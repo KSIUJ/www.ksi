@@ -6,31 +6,39 @@
 
 /* Menu */
 
-	#header nav a#menu-button {
-		display: none;
-	}
-	#header ul.links{
-		display: inline-block;
-	}
-	@include breakpoint('<=medium') {
-		#header nav a#menu-button {
-			display: inline-block !important;
-		}
-		#header ul.links{
-			display: none;
-			width: 100%;
-			position: fixed;
-			left: 0;
+#header nav a#menu-button {
+  display: none;
+}
 
-			li {
-				display: block;
+#header ul.links {
+  display: inline-block;
+}
 
-				*:hover{
-					background: rgba(53, 56, 73, 0.95);
-				}
-			}
-		}
-		#header nav a#menu-button, #header ul.links{
-			background: #4c5c96; 
-		}
-	}
+@include breakpoint('<=medium') {
+  #header nav a#menu-button {
+    display: inline-block !important;
+  }
+  #header ul.links {
+    display: none;
+    width: 100%;
+    position: fixed;
+    left: 0;
+
+    li {
+      display: block;
+
+      *:hover {
+        background: rgba(53, 56, 73, 0.95);
+      }
+    }
+  }
+  #header nav a#menu-button, #header ul.links {
+    background: #4c5c96;
+  }
+
+  body.is-menu-visible {
+    #header ul.links {
+      display: block;
+    }
+  }
+}
