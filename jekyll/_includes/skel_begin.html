@@ -28,9 +28,14 @@
         <link rel="stylesheet" href="/css/noscript.css"/>
     </noscript>
 
+    {% if page.title_loc %}
+    <title>{% t page.title_loc %} | {{site.title}}</title>
+    {% else %}
+    <title>{{ page.title }} | {{site.title}}</title>
+    {% endif %}
+
     <meta property="og:image"
           content="{{ site.url }}{% if page.post_img_url %}{{ page.post_img_url }}{% else %}{{ site.social_logo }}{% endif %}"/>
-
     <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
@@ -43,7 +48,7 @@
     <meta name="msapplication-config" content="/images/favicon/browserconfig.xml">
     <meta name="theme-color" content="#2e3141">
 
-    {% seo %}
+    {% seo title=false %}
 </head>
 <body class="is-preload">
 <!--[if lte IE 9]>

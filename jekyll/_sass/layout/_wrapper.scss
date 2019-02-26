@@ -175,6 +175,13 @@
       overflow: hidden;
       -ms-flex: 1;
 
+      &.alt {
+        border-radius: _size(border-radius);
+        img {
+          border-radius: _size(border-radius);
+        }
+      }
+
       img {
         border-radius: 100%;
         width: 100%;
