@@ -1,0 +1,15 @@
+---
+layout: post
+date: 2019-03-27 12:20:24
+language: pl
+title: Aktualności
+post_img_url: /images/fb/55492859_2420283404672081_2098534292274544640_o.jpg
+---
+
+Dzisiaj 📅 mogliście posłuchać czym nasze koło się zajmuje 😎 Mamy nadzieję, że się Wam podobało i dołączycie do nas jak tylko zostaniecie studentami 👨🏻‍🎓🔜
+
+----
+{% gallery %}
+/images/fb/55924217_2420282958005459_3696271424990740480_o.jpg
+/images/fb/55536517_2420283001338788_1912507146877009920_o.jpg
+{% endgallery %}

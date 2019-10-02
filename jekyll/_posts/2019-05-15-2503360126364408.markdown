@@ -1,0 +1,9 @@
+---
+layout: post
+date: 2019-05-15 18:18:02
+language: pl
+title: Aktualności
+post_img_url: /images/fb/60408030_2503353486365072_5654756183886528512_o.jpg
+---
+
+Zagłosuj w wyborach do Samorządu Studentów WMiI UJ! ksi.sh/wrss19
