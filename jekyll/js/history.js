@@ -2,7 +2,7 @@
 
 function shouldBePosFixed(parent, child){
   var topBorderOk = $(parent)[0].getBoundingClientRect().top<100;
-  var bottomBorderOk = ($(parent)[0].getBoundingClientRect().top - $(parent).position().top + $(parent).height()) > 100 /*$(child).height()*/;
+  var bottomBorderOk = ($(parent)[0].getBoundingClientRect().top - $(parent).position().top + $(parent).height()) > 400   /*$(child).height()*/;
 
   return topBorderOk && bottomBorderOk;
 }

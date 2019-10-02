@@ -36,6 +36,7 @@ frontpage:
   section_contact:
     title:  Contact us!
     text:   If you want to reach us check our addresses and links below.
+    sayat:  Anonymous opinion
 
 menu:
   homepage: Homepage
@@ -45,6 +46,42 @@ menu:
   events:   Events
   projects: Projects
   contact:  Contact
+  join: Join KSI!
+
+about:
+ title: About KSI
+ intro: Since 1976 the Computer Students' Association connects students interested in developing their skills and knowledge in broadly understood Computer Science on one of Europe's oldest and best universities.
+ what: What do we do?
+ organise_events: We organise events
+ organise_projects: We create projects
+ structure: Structure of the organisation
+ history: History of the Association
+ president: President
+ vps: Vice-presidents
+ vp: Vice-president
+ cfo: Finance director
+ secretary: Secretary
+ librarians: Librarians
+ housekeepers: Housekeepers
+ admins: IT Administrators
+ welcoming-blabla: and we strive to make the University a welcoming place for every Computer Science student!
+ structure-about: KSI is a "for students, by students" organisation and is governed as such. The management bodies are
+ the-general-meeting: The general meeting - where every member of the association can vote on the most crucial decisions
+ the-board: The board of directors - the executive branch
+ the-audit-committee: The audit committee - supervises and audits
+ board: Board of directors
+ member-of-the-board: Member of the board
+ board-about: Elected by the Annual General Meeting of Association members represents the Association and supervises its activities.
+ audit-committee: Audit committee
+ audit-committee-about: Supervises and audits the work of the organization.
+ supervisor: Scientific supervisor
+ supervisor-about: Prof. Skomorowski is our scientific supervisor, honorary member and apart of his role in KSI he is the director of the Institute of Computer Science of the Jagiellonian Univerisity.
+ admins: IT Administrators
+ admins-about: Maintaining our servers and internal network.
+ housekeepers: Housekeepers
+ housekeepers-about: Taking care of the condition of the premises and assets of the Association.
+ statute: Statute
+ statute-about: Legal act regulating the tasks, organizational structure and manner of operation of our Association (available in Polish).
 
 list:
   next: Newer posts
@@ -64,5 +101,28 @@ events:
   mnn_desc: Game design workshop for children
   fnis: Science and Arts Festival in Krakow
   fnis_desc: KSI tent on the Main Market Square in Krakow
+  social_events: Social events
+  social_events_desc: From the spring KSIbbq party to attending the Faculty Ball.
   co_op: Organize events with KSI UJ
   co_op_desc: Do you want to run a a workshop or a lecture at the Faculty of Mathematics and Computer Science of the Jagiellonian University? Your company tries to establish contact with students? Or maybe you are a student and you want to conduct your first lecture ever? We can help you! Write us a message or visit our headquarter!
+
+projects:
+  title: Projects
+  about: Created by members of KSI Computer Science Students' Association.
+  wip: Work in progress
+  wip-about: Under active development by our members.
+  stable: Finished
+  stable-about: Deployed to production... and requiring a fix from time to time.
+  deprecated: Old projects
+  deprecated-about: Deprecated/dissembled, but still interesting.
+  mordor-about: Web application supporting our study material repository. Based on Spring Boot and written in Kotlin.
+  erc-about: The Electronic Registration Center managing association memberships and member permissions is currently under rework.
+  gutenberg-about: Web printing application based on Django allowing quick and secure printer usage from web browser.
+  ksilock-about: Electronic door lock system for our premises - open doors with your student ID card.
+  cas-about: Central authentication for all KSI UJ web services.
+  arda-about: Our main server and base for other projects.
+  3dprinter: 3D printer
+  3dprinter-about: Prusa i3 built by KSI. Unfortunately it broke some time ago.
+  cluster: Computational cluster
+  cluster-about: What you can do with a bunch of old machines? Build an experimental computer cluster!
+  ksicianka-about: Legends say that it still can be found somewhere in the association HQ - the official KSI card game - started, but never finished.
