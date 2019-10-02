@@ -1,0 +1,24 @@
+---
+layout: post
+date: 2018-12-30 11:28:40
+language: pl
+title: Aktualności
+post_img_url: /images/fb/48398644_2280784631955293_6517944065198129152_o.jpg
+---
+
+Chcesz podjąć wyzwanie i stawić czoła problemom, z którymi na co dzień mierzą się programiści Google'a?👨🏻‍💻👩🏻‍💻
+Koło Studentów Informatyki zaprasza do udziału w Google Hash Code 2019‼️
+
+Hash Code to zespołowy konkurs programistyczny skierowany dla studentów i profesjonalistów z całego świata. Sam wybierasz swój zespół, język programowania, a Google wybiera zadanie, z którym przyjdzie Wam się zmierzyć. 💪🏻💪🏻
+Runda kwalifikacyjna rozpocznie się ⏰ 28 lutego o 18:30.  Widzimy się na Wydziale Matematyki i Informatyki UJ.✨
+
+Więcej informacji na temat konkursu, zadania z poprzednich edycji oraz formularz rejestracyjny znajdziesz pod adresem ⤵️⤵️⤵️
+https://codingcompetitions.withgoogle.com/hashcode/
+
+Zarejestruj się, zbierz drużynę i wybierz nasz hub na UJ! 📣
+Rejestracja:
+https://codingcompetitions.withgoogle.com/hashcode/
+Zapisy w Judge System (wybór zespołu i przypisanie się do huba):
+https://hashcodejudge.withgoogle.com/
+
+ <a href="https://www.facebook.com/events/1104905773021375/">➡️ Link do wydarzenia na Facebooku</a>

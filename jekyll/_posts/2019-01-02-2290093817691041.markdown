@@ -1,0 +1,11 @@
+---
+layout: post
+date: 2019-01-02 18:37:49
+language: pl
+title: Aktualności
+post_img_url: /images/fb/49513242_2290092894357800_6149943312997416960_n.png
+---
+
+Pamiętacie o Google Hash Code 2019?👩🏻‍💻👨🏻‍💻  
+🔜 Rejestracja rusza już jutro❗️
+Wybierz nasz hub na UJ, zgarnij gadżety od Google’a i programuj razem z nami!

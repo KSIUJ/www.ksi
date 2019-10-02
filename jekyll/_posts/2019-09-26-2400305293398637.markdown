@@ -1,0 +1,17 @@
+---
+layout: post
+date: 2019-09-26 15:23:26
+language: pl
+title: Aktualności
+post_img_url: /images/fb/71212645_2760406833993068_1787990976904560640_n.jpg
+---
+
+Już 15 października na kampusie UJ po raz kolejny zawita Jane Street. Zapraszamy zarówno na Tech Talk aby zapoznać się z rodzajami problemów, które stoją przed Jane Street na rynkach finansowych jak i na zaplanowany po nim Estimathon - przyjemną umysłową rywalizację połączoną z networkingiem, świetną pizzą i napojami 💻📈
+
+Temat tegorocznego Tech Talku "Memory Walls: jak dzisiejsze procesory stały się dużo szybsze od pamięci; i co każdy programista powinien wiedzieć na ten temat" zostanie zaprezentowany przez Pana Marcina Sawickiego.
+
+Jeśli chcesz poznać ciekawych ludzi ze świata tradingu i poszerzyć swoją wiedzę w tym temacie, zgarnąć koszulkę oraz sprawdzić się w matematycznej rywalizacji - dołącz do nas!
+
+Jane Street z siedzibą w Nowym Jorku, Londynie, Hongkongu i Amsterdamie jest firmą handlową, która działa przez całą dobę i na całym świecie, handlując szeroką gamą produktów finansowych, w tym: ETF, akcje, futures, towary, opcje, obligacje, waluty.
+
+ <a href="https://www.facebook.com/events/2400305293398637/">➡️ Link do wydarzenia na Facebooku</a>

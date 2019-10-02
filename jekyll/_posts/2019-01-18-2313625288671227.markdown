@@ -1,0 +1,17 @@
+---
+layout: post
+date: 2019-01-18 11:00:02
+language: pl
+title: Aktualności
+post_img_url: /images/fb/50210549_2313624115338011_2726185454108934144_n.png
+---
+
+📣 Przypominamy o rejestracji na Google Hash Code 2019‼️
+Zapraszamy wszystkich entuzjastów programowania, którzy chcieliby sprawdzić swoje umiejętności, a przy okazji spędzić czas w wyjątkowej atmosferze w gronie znajomych! 👨🏻‍💻👩🏻‍💻
+
+Co musisz zrobić, aby wziąć udział w wydarzeniu❓
+1️⃣ Zarejestruj się na stronie Google Hash Code ⬇️
+https://codingcompetitions.withgoogle.com/hashcode
+2️⃣ Stwórz zespół lub dołącz do istniejącego zespołu w Judge System ⬇️
+https://hashcodejudge.withgoogle.com/
+3️⃣ Dołącz do HUB'u Koła Studentów Informatyki UJ!

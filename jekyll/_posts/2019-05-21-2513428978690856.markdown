@@ -1,0 +1,16 @@
+---
+layout: post
+date: 2019-05-21 08:28:53
+language: pl
+title: Aktualności
+post_img_url: /images/fb/60545757_2513427602024327_121667923755401216_n.jpg
+---
+
+Kto z Was miał okazję spotkać się z nami w weekend na krakowskim rynku łapka w górę! Jak co roku przedstawiciele naszego Koła uczestniczyli w Festiwal Nauki i Sztuki w Krakowie pokazując małym i dużym mieszkańcom Krakowa, że nauka informatyki może być świetną zabawą! Do zobaczenia za rok!
+
+----
+{% gallery %}
+/images/fb/60640775_2513427615357659_3747085702760759296_n.jpg
+/images/fb/60621009_2513427612024326_6603409941543780352_n.jpg
+/images/fb/60543958_2513427708690983_3950554087577092096_n.jpg
+{% endgallery %}
