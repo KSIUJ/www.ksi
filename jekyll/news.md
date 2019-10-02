@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Aktualności
+title: news
 permalink: /news/
 languages:
 - pl

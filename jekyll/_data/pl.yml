@@ -36,6 +36,7 @@ frontpage:
   section_contact:
     title:  Skontaktuj się z nami!
     text:   Koło Studentów Informatyki nie istniałoby gdyby nie osoby takie jak ty - nasi Kołowicze i sympatycy. Jeżeli masz jakiekolwiek pomysły, sugestie czy pytania - zapraszamy do kontaktu!
+    sayat:  Anonimowa opinia
 
 menu:
   homepage: Strona główna
@@ -45,6 +46,42 @@ menu:
   events:   Wydarzenia
   projects: Projekty
   contact:  Kontakt
+  join: Dołącz do KSI!
+
+about:
+  title: O KSI
+  intro: Od 1976 roku Koło Studentów Informatyki zrzesza studentów zainteresowanych rozwojem swojej wiedzy i umiejętności z zakresu szeroko pojętej informatyki na jednym z najstarszych i najlepszych uniwersytetów w Europie.
+  what: Czym się zajmujemy?
+  organise_events: Organizujemy wydarzenia
+  organise_projects: Tworzymy projekty
+  structure: Struktura organizacji
+  history: Historia Koła
+  president: Prezes
+  vps: Wiceprezesi
+  vp: Wiceprezes
+  cfo: Skarbnik
+  secretary: Sekretarz
+  librarians: Bibliotekarze
+  housekeepers: Gospodarze
+  admins: Administratorzy
+  welcoming-blabla: i staramy się o to, aby nasz Uniwersytet był przyjaznym miejscem dla każdego studenta informatyki!
+  structure-about: KSI jest organizacją "dla studentów, przez studentów" i jest zarządzana w ten sam sposób. Organami kierującymi KSI są
+  the-general-meeting: Walne zebranie członków - gdzie każdy z członków Koła ma prawo głosu nad najważniejszymi decyzjami dla KSI
+  the-board: Zarząd - wykonawcze ramie KSI
+  the-audit-committee: Komisja rewizyjna - kontroluje działanie organizacji
+  board: Zarząd
+  member-of-the-board: Członek zarządu
+  board-about: Wybierany przez Walne Zgromadzenie członków Koła na roczną kadencję reprezentuje Koło oraz kieruje jego rozwojem.
+  audit-committee: Komisja rewizyjna
+  audit-committee-about: Nadzoruje i rewiduje działania Koła.
+  supervisor: Opiekun naukowy Koła
+  supervisor-about: Prof. Skomorowski jest opiekunem naukowym naszego Koła, honorowym członkiem oraz dyrektorem Instytutu Informatyki Uniwersytetu Jagiellońskiego.
+  admins: Administratorzy
+  admins-about: Odpowiedzialni za serwery i sieć Koła.
+  housekeepers: Gospodarze
+  housekeepers-about: Dbają o stan pomieszczeń i majątku Koła.
+  statute: Statut
+  statute-about: Dokument określający zadania, strukturę i zasady działania naszej organizacji.
 
 list:
   next: Nowsze posty
@@ -53,7 +90,7 @@ list:
 events:
   title: Wydarzenia
   sfi_name: Studencki Festiwal Informatyczny
-  sfi_text: Międzynarodowa konferencja informatyczna organizowana przez studentów, dla studentów. Od 2005 r. wraz z kołami naukowymi z 3 innych krakowskich uczelni co rok zapraszamy prelegentów z całego świata, na liście których znalazły się nazwiska takie jak Andrew S. Tanenbaum, Thomas Cormen, Larry Wall, Richard Stallman czy Kevin Warwick. Podczas trzech dni konferencji obywa się kilkadziesiąt wykładów i warsztatów, które przyciąga kilka tysięcy uczestników rocznie. Biletem wstępu są jedynie pasja i odrobina chęci oraz zainteresowania tematem.
+  sfi_text: Międzynarodowa konferencja informatyczna organizowana przez studentów, dla studentów. Od 2005 r. wraz z kołami naukowymi z 3 innych krakowskich uczelni co rok zapraszamy prelegentów z całego świata, na liście których znalazły się nazwiska takie jak Andrew S. Tanenbaum, Thomas Cormen, Larry Wall, Richard Stallman czy Kevin Warwick. Podczas trzech dni konferencji odbywa się kilkadziesiąt wykładów i warsztatów, które przyciąga kilka tysięcy uczestników rocznie. Biletem wstępu są jedynie pasja i odrobina chęci oraz zainteresowania tematem.
   ksitalk: ksiTalk to comiesięczne seminarium studenckie Koła Studentów Informatyki UJ. Cykliczne spotkania Koła mają na celu dzielenie się wiedzą, poszerzanie horyzontów w dziedzinie informatyki oraz ćwiczenie umiejętności retorycznych. Na każdym spotkaniu odbywa się wykład zaproszonego pracownika naukowego, co pozwala studentom nawiązać bliższy kontakt z nauką i potencjalnie rozpocząć współpracę. Oprócz tego odbywają się co najmniej 2 prelekcje członków Koła, którzy przedstawiają realizowane przez nich projekty naukowe, interesujące ich zagadnienia i prace.
   corp_name: Wykłady i warsztaty we współpracy z firmami IT
   corp_desc: W KSI rozumiemy jak ważna jest współpraca nauki z biznesem.
@@ -64,5 +101,28 @@ events:
   mnn_desc: Warsztaty z tworzenia gier dla dzieci
   fnis: Festiwal Nauki i Sztuki w Krakowie
   fnis_desc: Namiot KSI na krakowskim Rynku Głównym
+  social_events: Integracja
+  social_events_desc: Od wiosennego KSIgrilla po udział w Balu Wydziału.
   co_op: Zorganizuj wydarzenia z KSI UJ
-  co_op_desc: Chcesz przeprowadzić wykład lub warsztaty na Wydziale Matematyki i Informatyki Uniwersytetu Jagiellońskiego? Twoja firma próbuje nawiązać kontakt ze studentami? A może jesteś studentem i chiałbyś poprowadzić swój pierwszy w życiu wykład? Pomożemy Ci w tym! Napisz do nas lub odwiedź naszą siedzibę.
+  co_op_desc: Chcesz przeprowadzić wykład lub warsztaty na Wydziale Matematyki i Informatyki Uniwersytetu Jagiellońskiego? Twoja firma próbuje nawiązać kontakt ze studentami? A może jesteś studentem i chciałbyś poprowadzić swój pierwszy w życiu wykład? Pomożemy Ci w tym! Napisz do nas lub odwiedź naszą siedzibę.
+
+projects:
+  title: Projekty
+  about: Stworzone przez członków Koła Studentów Informatyki UJ.
+  wip: Work in progress
+  wip-about: Aktualnie rozwijane przez naszych członków.
+  stable: Zakończone
+  stable-about: Deployed to production... czasem tylko trzeba coś poprawić.
+  deprecated: Archiwalne projekty
+  deprecated-about: Wyłączone/rozmontowane, ale nadal interesujące
+  mordor-about: Aplikacja obsługująca repozytorium materiałów naukowych KSI. Bazuje na Spring Boot, napisana w Kotlinie.
+  erc-about: Elektroniczny Rejestr Członków, zarządzający uprawnieniami i statusem członków Koła jest aktualnie w przebudowie.
+  gutenberg-about: Internetowa aplikacja bazująca na Django pozwalająca szybko i bezpiecznie drukować dokumenty z przeglądarki.
+  ksilock-about: System zamków elektronicznych do pomieszczeń naszego Koła - otwórz drzwi legitymacją studencką.
+  cas-about: Centralne uwierzytelnienie do wszystkich usług internetowych KSI UJ.
+  arda-about: Nasz główny serwer i baza dla innych projektów.
+  3dprinter: Drukarka 3D
+  3dprinter-about: Prusa i3 zbudowana przez KSI. Niestety zepsuła się jakiś czas temu.
+  cluster: Klaster obliczeniowy
+  cluster-about: Co można zrobić z kilkoma starymi komputerami? Zbudować eksperymentalny klaster obliczeniowy!
+  ksicianka-about: Legendy mówią, że nadal można ją znaleźć gdzieś w siedzibie Koła - oficjalna gra karciana KSI - zaczęta, lecz nigdy nie dokończona.

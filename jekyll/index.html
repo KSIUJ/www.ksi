@@ -24,67 +24,34 @@ title: Home
             <div class="content">
                 <h2 class="major">{% t 'section_ksi.title' %}</h2>
                 <p>{% t 'section_ksi.text' %}</p>
-                <a href="/about/" class="special">{% t 'read_more' %}</a>
+                <a href="/{{ page.language }}/about/" class="special">{% t 'read_more' %}</a>
             </div>
         </div>
     </section>
 
     <section id="events" class="wrapper alt spotlight style1">
         <div class="inner">
-            {% picture logo images/base/events.jpg --link /events/ --a class="image" %}
+            {% picture logo images/base/events.jpg --link /{{ page.language }}/events/ --a class="image" %}
             <div class="content">
                 <h2 class="major">{% t 'section_events.title' %}</h2>
                 <p>{% t 'section_events.text' %} </p>
-                <a href="/events/" class="special">{% t 'read_more' %}</a>
+                <a href="/{{ page.language }}/events/" class="special">{% t 'read_more' %}</a>
             </div>
         </div>
     </section>
 
-    <section id="centrum-proj" class="wrapper spotlight style2">
+    <section id="projekty" class="wrapper spotlight style2">
         <div class="inner">
-            {% picture logo images/base/temp_3d.png --link /projects/ --a class="image" %}
-            <div class="content">
-                <h2 class="major">{% t 'section_proj_center.title' %}</h2>
-                <p>{% t 'section_proj_center.text' %}</p>
-                <a href="/projects/" class="special">{% t 'read_more' %}</a>
-            </div>
-        </div>
-    </section>
-
-    <section id="dydaktyka" class="wrapper spotlight alt style3">
-        <div class="inner">
-            {% picture logo /images/ucz-sie-z-ksi.jpg --link /about/ --a class="image" %}
-            <div class="content">
-                <h2 class="major">{% t 'section_didactics.title' %}</h2>
-                <p>{% t 'section_didactics.text' %}</p>
-                <a href="/about/#dydaktyka" class="special">{% t 'read_more' %}</a>
-            </div>
-        </div>
-    </section>
-
-    <section id="serwerownia" class="wrapper spotlight style1">
-        <div class="inner">
-            {% picture logo /images/serwerownia.jpg --link /projects/ --a class="image" %}
-            <div class="content">
-                <h2 class="major">{% t 'section_server_room.title' %}</h2>
-                <p>{% t 'section_server_room.text' %}</p>
-                <a href="/projects/#serwerownia" class="special">{% t 'read_more' %}</a>
-            </div>
-        </div>
-    </section>
-
-    <section id="projekty" class="wrapper spotlight alt style2">
-        <div class="inner">
-            {% picture logo /images/octocat_girl.jpg --link /projects/ --a class="image" %}
+            {% picture logo /images/octocat_girl.jpg --link /{{ page.language }}/projects/ --a class="image" %}
             <div class="content">
                 <h2 class="major">{% t 'section_projects.title' %}</h2>
                 <p>{% t 'section_projects.text' %}</p>
-                <a href="/projects/" class="special">{% t 'read_more' %}</a>
+                <a href="/{{ page.language }}/projects/" class="special">{% t 'read_more' %}</a>
             </div>
         </div>
     </section>
 
-    <section id="news" class="wrapper style3">
+    <section id="news" class="wrapper alt style3">
         <div class="inner">
             <h2 class="major">{% t 'section_news.title' %}</h2>
             <p>{% t 'section_news.text' %}</p>

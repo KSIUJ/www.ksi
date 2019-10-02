@@ -8,12 +8,12 @@
     <nav id="menu">
         <a href="#menu" id="menu-button">Menu</a>
         <ul class="links">
-            <li><a href="/">{% t 'menu.homepage' %}</a></li>
+            <li><a href="/{{ page.language }}/">{% t 'menu.homepage' %}</a></li>
             <li><a href="/news/">{% t 'menu.news' %}</a></li>
-            <li><a href="/about/">{% t 'menu.about' %}</a></li>
-            <li><a href="/history/">{% t 'menu.history' %}</a></li>
+            <li><a href="/{{ page.language }}/about/">{% t 'menu.about' %}</a></li>
             <li><a href="/{{ page.language }}/events/">{% t 'menu.events' %}</a></li>
-            <li><a href="/projects/">{% t 'menu.projects' %}</a></li>
+            <li><a href="/{{ page.language }}/projects/">{% t 'menu.projects' %}</a></li>
+            <!--<li><a href="/{{ page.language }}/join/">{% t 'menu.join' %}</a></li>-->
             <li><a href="#footer">{% t 'menu.contact' %}</a></li>
             <li><a href="/pl/">PL</a>/<a href="/en/">EN</a></li>
         </ul>

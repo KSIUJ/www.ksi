@@ -1,0 +1,95 @@
+.decade {
+  min-height: 300px;
+}
+
+.year h3, .decade h1 {
+  margin-bottom: 0;
+}
+
+.year {
+  margin-bottom: 15px;
+  border-top: 1px dashed white;
+}
+
+.func_header {
+  font-size: 16px;
+  text-transform: uppercase;
+  border-left: 1px solid white;
+  padding-left: 3px;
+}
+
+.zarzad_czlowiek {
+  display: inline-block;
+}
+
+#decade_navigator {
+  position: absolute;
+  width: 100px;
+}
+
+.year_body {
+  text-align: justify;
+  margin-bottom: 5px;
+}
+
+#decade_navigator {
+  width: 50px;
+}
+
+@media (max-width: 800px) {
+  .decade_link {
+    font-size: 32px;
+  }
+
+  #decade_viewer {
+    margin-left: 80px;
+  }
+
+  .decade h1 {
+    font-size: 36px;
+  }
+
+  .year h3 {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 400px) {
+  .decade_link {
+    font-size: 24px;
+  }
+
+  #decade_navigator {
+    width: 50px;
+  }
+
+  #decade_viewer {
+    margin-left: 60px;
+  }
+
+  .decade h1 {
+    font-size: 28px;
+  }
+
+  .year h3 {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 800px) {
+  .decade_link {
+    font-size: 42px;
+  }
+
+  #decade_viewer {
+    margin-left: 150px;
+  }
+
+  .decade h1 {
+    font-size: 44px;
+  }
+
+  .year h3 {
+    font-size: 28px;
+  }
+}
