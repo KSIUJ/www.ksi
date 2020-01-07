@@ -60,3 +60,34 @@ years:
     sekretarz:  Daniel Skowroński
     gospodarz:  Patrycja Brzeska, Michał Kurzyiński
     rewizyjna:  Szymon Borak, Piotr Rytko
+  - year: 2016
+    header:     TODO
+    body:       W KSI rozwija się KrakLisp. Kamil Drobniak dostaje honorowe za sekcję remontowo budowlaną. Współpraca - Palantir, AVSystem. Warsztaty - Unity, VR. Targi Kariery. Gra terenowa na 40 lecie KSI. Ciągle prowadzimy KSICamp. Znowu SFI na którym jest Cormen. Google Hash Code. Targi Kół Naukowych. UltraSpec Lispa, Herda na konferencji, plakaty z Lispem. FNiSZ. Dzień Wydziału.
+    zarzad_info: true
+    prezes:     Dominika Zając
+    vice:       Adam Piekarczyk, Wojciech Sabała
+    skarbnik:   Michał Herda
+    sekretarz:  Daniel Skowroński
+    gospodarz:  Tobiasz Porębski, Michał Kurzyński
+    rewizyjna:  Piotr Rytko, Tomasz Zub, Krzysztof Hajto (od 8.05.2017)
+  - year: 2017
+    header:     TODO
+    body:       Microsoft, 2 miejsce Ziela w AMPPZ, KSICamp, Palantir, GE Digital - git, Google Hash Code, Targi Kół Naukowych, Targi Kariery, 14. SFI, AVSystem, Software Mansion - hybrid apps Expo & react, KSITalk (po raz pierwszy), Dzień Wydziału, Relativity, Liga Algorytmiczna KSI (pierwszy raz!), FNiSZ, Pierwszy raz Diamentowa Kreda.
+    zarzad_info: true
+    prezes:     Dominika Zając
+    vice:       Adam Piekarczyk, Wojciech Sabała
+    skarbnik:   Szymon Smykała
+    sekretarz:  Adam Pardyl
+    gospodarz:  Jakub Kiermasz, Michał Kurzyński
+    rewizyjna:  Krzysztof Hajto, Michał Herda
+  - year: 2018
+    header:     TODO
+    body:       Microsoft, Google, Facebook, KSICamp, Dominika honorowe, Ardigen, Koncert Zimowy, Google Hash Code, 15. SFI, Talentplace, Wystawienie w wyborach do WRSS reprezentacji KSI, która wygrała. Współpraca z Neuronusem i NKRSI - wspólne seminaria. FNiSZ, DisplayLink, Bal WMiI UJ, Diamentowa Kreda.
+    zarzad_info: true
+    prezes:     Adam Piekarczyk
+    vice:       Adam Pardyl, Wojciech Sabała
+    skarbnik:   Szymon Smykała
+    sekretarz:  Dominik Wołek
+    gospodarz:  Łukasz Sereda, Mateusz Gwóźdź
+    rewizyjna:  Dominika Zając, Michał Herda
+
