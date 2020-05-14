@@ -1,0 +1,24 @@
+---
+layout: post
+date: 2019-12-09 14:02:59
+language: pl
+title: Aktualności
+post_img_url: /images/fb/78827061_3228633157163073_5479689429956165632_o.png
+---
+Odliczasz dni do 16.SFI jak do Nowego Roku? 🎆 Może zastanawiasz się, jakich wykładów posłuchasz na naszym festiwalu? 👨‍🏫 🤔
+Przychodzimy z odpowiedzią!
+
+Na 16. SFI wykłady będą podzielone na aż 7 sekcji tematycznych:
+➡️ WebDev,
+➡️ GameDev,
+➡️ sztuczna inteligencja,
+➡️ bezpieczeństwo i blockchain,
+➡️ software development,
+➡️ elektronika i Internet of Things,
+➡️ IT w kosmosie.
+
+Dzięki temu możesz już teraz oczekiwać ciekawych wykładów z każdej z tych dziedzin!✨
+
+Pamiętaj, że do 1️⃣2️⃣ stycznia trwają zapisy na Call for Papers❗ Jeśli chcesz poprowadzić wykład lub warsztat w jednej z powyższych sekcji tematycznych na SFI 📭, wyślij swoje zgłoszenie na adres callforpapers@sfi.pl.
+
+Jeśli masz jakieś pytania, z chęcią na nie odpowiemy :)

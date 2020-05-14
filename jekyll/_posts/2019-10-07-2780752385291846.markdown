@@ -1,0 +1,21 @@
+---
+layout: post
+date: 2019-10-07 10:07:00
+language: pl
+title: Aktualności
+post_img_url: /images/fb/71905446_2780745445292540_7497015047533625344_n.png
+---
+
+➡️ How to build a near-real-time, peta-scale data platform 
+
+⬆ Tak, to temat Microsoft Tech Talk 😍
+To jedyna i niepowtarzalna okazja, aby porozmawiać z pracownikami firmy Microsoft na Uniwersytecie Jagiellońskim w tym roku 😊
+
+📅 22.10.2019
+🏢 Wydział Matematyki i Informatyki UJ
+
+➡️ Wydarzenie:
+https://www.facebook.com/events/476219726436621/
+
+➡️ Rejestracja: 
+http://tinyurl.com/y425rcsn

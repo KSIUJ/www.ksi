@@ -1,0 +1,13 @@
+---
+layout: post
+date: 2019-11-28 14:08:02
+language: pl
+title: Aktualności
+post_img_url: /images/fb/78792305_2901420933224990_4047731618184429568_o.jpg
+---
+
+W czwartek 5 gudnia członkowie naszego koła poprowadzą już czwarty w tym roku akademickim ksiCamp 👨🏻‍💻 Tym razem będziecie mogli poznać narzędzia, które pozwolą Wam sprawnie poruszać się w środowisku C++ (a jest to język, z którym każdy spotyka się na naszych studiach)🤖
+
+Wszystkich, którym pojęcia debugging, make czy valgrind są nie znane (lub chcieliby taką znajomość pogłębić🙂), serdecznie zapraszamy na spotkanie w najbliższy czwartek o godz. 12:00 w sali naszego koła (pokój 1173) na WMiI 🤓
+
+ <a href="https://www.facebook.com/events/442756786419912/">➡️ Link do wydarzenia na Facebooku</a>

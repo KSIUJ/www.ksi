@@ -1,0 +1,14 @@
+---
+layout: post
+date: 2020-03-05 14:43:49
+language: pl
+title: Aktualności
+post_img_url: /images/fb/87574052_3110739138959834_3937996676945412096_o.jpg
+---
+
+📣Przypominamy o dzisiejszym KSITalku!
+Widzimy się o 🕑 18:00 w siedzibie naszego koła. 
+Prelegentem będzie dr Tomasz Kapela, który opowie o komputerowym wspomaganiu dowodów matematycznych. 💻🤓
+Tradycyjnie po wykładzie zapraszamy na wyjście integracyjne! 🍻
+
+ <a href="https://www.facebook.com/events/3105889299443125/">➡️ Link do wydarzenia na Facebooku</a>

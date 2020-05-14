@@ -1,0 +1,21 @@
+---
+layout: post
+date: 2020-01-16 17:00:00
+language: pl
+title: Aktualności
+post_img_url: /images/fb/86665341_3086680694699012_2034127035718172672_o.jpg
+---
+
+Koło Studentów Informatyki UJ oraz Samorząd Studentów Wydziału Matematyki i Informatyki UJ mają przyjemność zaprosić Was na Google Hash Code 2020 😊
+
+Google Hash Code to drużynowe zawody programistyczne dla studentów i profesjonalistów organizowane przez Google. Zespoły (2-4 osobowe) przy użyciu wybranego języka programowania zmagają się z technicznymi problemami 💻
+
+Jeśli myślisz, że potrafisz znaleźć sposób na optymalizację układu centrum danych Google'a lub niestraszne jest Ci projektowanie floty dronów, odpowiedzialnych za doręczanie zamówień na całym świecie, zbierz drużynę i zarejestruj się  -> g.co/hashcode <- (rejestracja zespołów trwa do 17.02.2020r). Pamiętajcie, aby podczas rejestracji wybrać nasz hub "Koło Studentów Informatyki UJ". Pomoże nam to w ustaleniu potrzebnej ilości gadżetów i innych wspaniałości 🤓
+
+📆 Runda kwalifikacyjna odbędzie się online 20 lutego 2020, o godz. 18:30. To właśnie wtedy zapraszamy do naszego hubu na WMiI, aby wspólnie przy wsparciu innych studentów i  w jedynej w swoim rodzaju hashcodeowej atmosferze rozwiązywać zadania 👾
+
+Więcej informacji możesz znaleźć tutaj -> g.co/hashcode <-
+
+Dołącz do wydarzenia, a my dopilnujemy, aby nie ominęła Cię żadna informacja i żaden deadline 😊
+
+ <a href="https://www.facebook.com/events/458031191758811/">➡️ Link do wydarzenia na Facebooku</a>

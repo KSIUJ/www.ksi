@@ -1,0 +1,11 @@
+---
+layout: post
+date: 2020-03-01 17:05:04
+language: pl
+title: Aktualności
+post_img_url: /images/fb/87507836_3108378582529223_1763260336170860544_n.jpg
+---
+
+We wtorek o godz. 18:15 będziecie mogli dowiedzieć się, jak startup Nomagic podchodzi do tematu sztucznej inteligencji 🤖 Zapraszamy zarówno pasjonatów tej dziedziny jak i tych, którzy chcieliby się z nią dopiero zaznajomić. Po ciekawym wykładzie przedstawione zostaną oferty stażowe, jakie goszcząca na naszym wydziale firma ma do zaoferowania studentom 👨🏻‍💻 Po części oficjalnej, przy świetnej pizzy, będzie możliwość zadania przedstawicielom Nomagic wszystkich nurtujących was pytań 🍕 Zapraszamy 🙂
+
+ <a href="https://www.facebook.com/events/187145009227701/">➡️ Link do wydarzenia na Facebooku</a>

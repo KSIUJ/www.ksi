@@ -1,0 +1,20 @@
+---
+layout: post
+date: 2019-11-17 16:56:13
+language: pl
+title: Aktualności
+post_img_url: /images/fb/73166630_2863230630377354_7507170179877437440_o.jpg
+---
+
+Z uśmiechem przypominamy, że już jutro (poniedziałek 18.11) na Wydział Matematyki i Informatyki UJ przyjeżdża firma Google 🤖 Jej przedstawiciele poprowadzą Android Studio Tech Talk, po którym przy wyśmienitej pizzy odpowiedzą na wszystkie wasze pytania 😊
+
+👀Pamiętajcie dać nam znać czy będziecie, zapisując się tutaj: goo.gle/jagiellonian-RSVP
+
+Jeśli chcecie:
+- dowiedzieć się czym jest Android Studio 👩🏼‍💻
+- posłuchać o stażach 👨🏻‍💻
+- zgarnąć gadżety od Googla 🎁
+- zjeść pyszną pizze 🍕
+to zapraszamy w poniedziałek o godz. 16:00 do sali 0004.
+
+ <a href="https://www.facebook.com/events/2229288117368999/">➡️ Link do wydarzenia na Facebooku</a>

@@ -1,0 +1,30 @@
+---
+layout: post
+date: 2019-11-13 07:30:01
+language: pl
+title: Aktualności
+post_img_url: /images/fb/73166630_2863230630377354_7507170179877437440_o.jpg
+---
+
+Już 18 listopada na WMiI UJ po raz kolejny zawitają przedstawiciele firmy Google. Zapraszamy na Android Studio Tech Talk, który odbędzie się w poniedziałek 18 listopada w godzinach 16:00-18:00 na Wydziale Matematyki i Informatyki UJ (sala 0004) 💻
+
+🤖
+Jeśli planujesz dołączyć, powiadom nas o tym tutaj: goo.gle/jagiellonian-RSVP
+Ta informacje pomoże nam odpowiednio przygotować wydarzenie pod liczbę uczestników :)
+
+👾
+Google is coming to your campus and we can’t wait to see you!
+
+On November 18th Google will be hosting Android Studio Tech Talk on campus for you to learn more about Google and the opportunities we offer to students. We hope to meet you there.
+
+Check out the details on our (events.withgoogle.com/google-tech-talk-at-jagiellonian) and sign up with this link: goo.gle/jagiellonian-RSVP
+
+What: Android Studio Tech Talk @Jagiellonian University
+
+When: Monday, November 18th, 16:00-18:00
+
+Where: Auditorium 0004, Faculty of Mathematics and Computer Science
+
+Hope to see you there!
+
+ <a href="https://www.facebook.com/events/2229288117368999/">➡️ Link do wydarzenia na Facebooku</a>

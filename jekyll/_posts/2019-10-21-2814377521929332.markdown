@@ -1,0 +1,34 @@
+---
+layout: post
+date: 2019-10-21 16:26:29
+language: pl
+title: Aktualności
+post_img_url: /images/fb/73014242_2814361901930894_416090079379849216_n.jpg
+---
+
+W miniony piątek odbyło się coroczne Walne Zgromadzenie Członków Koła Studentów Informatyki UJ. Zaczęliśmy i zakończyliśmy sukcesem - od niepamiętnych czasów kworum zebrało się w pierwszym zaplanowanym terminie. Pozwoliło nam to sprawnie przeprowadzić całe spotkanie oraz zakończyć część oficjalną w rekordowym czasie. 
+
+Podczas spotkania pożegnaliśmy Ustępujący Zarząd, któremu pogratulowano wszystkich osiągnięć. Jego członkowie wygłosili raport podsumowujący swoją działalność w czasie trwania kadencji. Sprawozdanie Komisji Rewizyjnej (w składzie Dominika Zając oraz Michał Herda), mimo kilku cennych uwag skierowanych w działalność zarządu potwierdziło, że w Kole Studentów Informatyki UJ dzieją się same dobre rzeczy, a za większość z nich w minionym roku odpowiedzialni byli ustępujący ze swoich pozycji:
+Prezes Koła Adam Piekarczyk,
+Wiceprezes Adam Pardyl,
+Wiceprezes Wojciech Sabała,
+Skarbnik Szymon Smykała,
+Sekretarz Dominik Wołek.
+
+Po tej emocjonalnej części przyszła pora na podjęcie decyzji o przyszłości Koła. Jednogłośnie jego członkowie przyjęli nowy Statut oraz wybrali nowy Zarząd, którego skład przedstawia się następująco:
+Prezes Koła Dominik Wołek,
+Wiceprezes Adam Pardyl,
+Skarbnik Łukasz Sereda,
+Członek Zarządu Elwira Zimoch,
+Członek Zarządu Mateusz Maćkowski.
+Tegoroczną Komisję Rewizyjną będą tworzyć Adam Piekarczyk, Wojciech Sabała oraz Jakub Kiermasz, których zadaniem będzie nadzorowanie nowo wybranego Zarządu oraz rozliczanie go z ogółu działalności.
+
+Za swoje zasługi dla Koła Studentów Informatyki UJ tytułem Członka Honorowego zostali mianowani Adam Piekarczyk oraz Michał Herda.
+
+Było nam niezmiernie miło gościć wszystkich przybyłych. Zachęcamy do aktywnej działalności w Kole. Do zobaczenia w maju 😊🤖
+
+----
+{% gallery %}
+/images/fb/74295884_2814361905264227_1443705698377531392_n.jpg
+/images/fb/73046003_2814361908597560_8821015948627542016_n.jpg
+{% endgallery %}

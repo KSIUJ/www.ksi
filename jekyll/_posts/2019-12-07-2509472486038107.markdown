@@ -1,0 +1,11 @@
+---
+layout: post
+date: 2019-12-07 12:29:15
+language: pl
+title: Aktualności
+post_img_url: /images/fb/78616619_2922501607783589_1090959153888755712_n.jpg
+---
+
+W nadchodzący czwartek po raz kolejny spotkamy się w siedzibie Koła Studentów Informatyki na ksiCampie 🤓 Od godz. 12:00 będziemy przekazywać wszystkim chętnym całą naszą wiedzę dotycząca CLiona i odpowiadać na związane z tym tematem pytania 🧐 Pamiętajcie zabrać swój sprzęt 👩🏼‍💻
+
+ <a href="https://www.facebook.com/events/2509472486038107/">➡️ Link do wydarzenia na Facebooku</a>

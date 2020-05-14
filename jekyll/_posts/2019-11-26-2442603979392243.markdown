@@ -1,0 +1,19 @@
+---
+layout: post
+date: 2019-11-26 17:00:00
+language: pl
+title: Aktualności
+post_img_url: /images/fb/79119720_2898594973507586_5532798263939301376_o.jpg
+---
+
+Z przyjemnością zapraszamy na warsztaty organizowane przez firmę GE, które odbędą się w środę 4 grudnia na naszym wydziale. Zobaczymy się tego dnia o godz. 14:00 w sali 1146 Więcej informacji znajdziecie poniżej 🤖
+
+Link do rejestracji: http://ksi.sh/formularzGE
+
+Czy chciałeś kiedyś stworzyć swoją własną aplikację mobilną?
+Czy zastanawiałeś się kiedyś jak największe firmy na świecie tworzą swoje programy?
+A może po prostu lubisz poznawać nowe rzeczy?
+
+Jeżeli na którekolwiek z tych pytań odpowiedź brzmi “TAK” - mamy coś specjalnie dla Ciebie! Już 4.12 zapraszamy na warsztaty, w czasie których stworzysz swoją pierwszą aplikację mobilną. Dzięki wykorzystaniu podejścia hybrydowego, jeden kod posłuży nam do stworzenia aplikacji działającej na Androidzie, iOSie i w przeglądarce! Nie zabraknie oczywiście również pysznej pizzy🍕. Brzmi dobrze? Zarejestruj się już dziś pod linkiem http://ksi.sh/formularzGE . Do zobaczenia!
+
+ <a href="https://www.facebook.com/events/2442603979392243/">➡️ Link do wydarzenia na Facebooku</a>

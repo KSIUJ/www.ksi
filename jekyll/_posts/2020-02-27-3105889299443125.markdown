@@ -1,0 +1,15 @@
+---
+layout: post
+date: 2020-02-27 17:25:47
+language: pl
+title: Aktualności
+post_img_url: /images/fb/87574052_3110739138959834_3937996676945412096_o.jpg
+---
+
+W nadchodzący czwartek 5 marca zapraszamy serdecznie na krótki wykład dra. Tomasza Kapeli zatytułowany "Komputerowo wspierane dowody w układach dynamicznych". 
+
+KsiTalk odbędzie się jak zwykle w sali nr. 1173 (siedziba KSI) o godz. 18:00. 
+
+Po części oficjalnej przewidujemy KSIową integrację :)
+
+ <a href="https://www.facebook.com/events/3105889299443125/">➡️ Link do wydarzenia na Facebooku</a>

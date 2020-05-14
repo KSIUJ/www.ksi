@@ -1,0 +1,11 @@
+---
+layout: post
+date: 2020-02-26 14:16:47
+language: pl
+title: Aktualności
+post_img_url: /images/fb/87507836_3108378582529223_1763260336170860544_n.jpg
+---
+
+W nadchodzący wtorek zapraszamy wszystkich zainteresowanych na wykład prowadzony przez przedstawicieli Nomagic, na którym w ciekawy sposób poruszony zostanie temat sztucznej inteligencji. Oprócz pasjonującego zagadnienia, jakim jest AI, dowiecie się również o ofertach stażowych proponowanych przez firmę 🤖 To wszystko przy wyśmienitej pizzy i w przemiłej atmosferze na Wydziale Matematyki i Informatyki UJ już 3 marca 😀
+
+ <a href="https://www.facebook.com/events/187145009227701/">➡️ Link do wydarzenia na Facebooku</a>

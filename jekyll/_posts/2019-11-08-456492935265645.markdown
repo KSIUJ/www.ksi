@@ -1,0 +1,13 @@
+---
+layout: post
+date: 2019-11-08 07:30:00
+language: pl
+title: Aktualności
+post_img_url: /images/fb/73388376_2852063304827420_6563172471711727616_o.jpg
+---
+
+Zapraszamy wszystkich na drugie w tym roku warsztaty ksiCamp 🤖 organizowane przez członków naszego koła. Odbędą się one w czwartek (14.11.2019r.) w godzinach 12:00-16:00. Będziemy czekać na Was w sali 1160 :)
+
+Tematem nadchodzącego spotkania będzie wprowadzenie do Gita i korzystanie z GitHuba 👨‍💻
+
+ <a href="https://www.facebook.com/events/456492935265645/">➡️ Link do wydarzenia na Facebooku</a>

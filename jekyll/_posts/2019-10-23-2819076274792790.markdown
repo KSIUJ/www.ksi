@@ -1,0 +1,17 @@
+---
+layout: post
+date: 2019-10-23 17:03:31
+language: pl
+title: Aktualności
+post_img_url: /images/fb/75486066_2818996531467431_4289930012326363136_n.jpg
+---
+
+Dzisiaj mogliście uczestniczyć w Facebook at Jagiellonian i posłuchać inżyniera z firmy Facebook 😎
+
+Czy już wiecie jak można użyć rozwiązania nauczania maszynowego w praktyce? 🤓
+
+----
+{% gallery %}
+/images/fb/73364217_2818996808134070_8271280746287595520_o.jpg
+/images/fb/75534730_2818996851467399_5632064737790394368_n.jpg
+{% endgallery %}

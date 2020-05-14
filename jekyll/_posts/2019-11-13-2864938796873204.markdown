@@ -1,0 +1,15 @@
+---
+layout: post
+date: 2019-11-13 09:23:37
+language: pl
+title: Aktualności
+post_img_url: /images/fb/73388376_2852063304827420_6563172471711727616_o.jpg
+---
+
+Przypominamy, że już w ten czwartek KSI organizuje drugie w tym roku warsztaty ksiCamp 🤖 Spotkanie skierowane jest do studentów pierwszego roku, jednak zapraszamy na nie wszystkich tych, którzy chcieliby zasięgnąć informatycznych porad od kolegów i koleżanek. Tematem czwartkowych warsztatów będzie Git oraz Github.
+
+Pamiętajcie przynieść sprzęt, na którym będziecie pracować, z zainstalowanym Gitem (git-scm.com/downloads) oraz założonym kontem na Githubie (github.com), a także o skonfigurowaniu lokalnie nazwy użytkownika i maila.
+
+Widzimy się 14 listopada o godz. 12:00 w sali 1160 🐌
+
+ <a href="https://www.facebook.com/events/456492935265645/">➡️ Link do wydarzenia na Facebooku</a>

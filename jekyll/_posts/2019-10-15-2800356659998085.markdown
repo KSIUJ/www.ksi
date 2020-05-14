@@ -1,0 +1,10 @@
+---
+layout: post
+date: 2019-10-15 14:13:07
+language: pl
+title: Aktualności
+post_img_url: /images/fb/72367426_2800353649998386_7189201664916586496_o.jpg
+---
+Właśnie zaczęliśmy Jane Street na Jagiellońskim - Tech Talk + Estimathon 😊
+
+Dzisiaj porozmawiamy o procesorach 🤖
