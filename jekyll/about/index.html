@@ -234,6 +234,14 @@ title: About KSI
                                 class="func_header">{% t 'board_members' %}:</span>
                             {{ year.czlonkowie }} {% endif %}
                         </div>
+                        <div class="zarzad_czlowiek">{% if year.admini != nil %}<span
+                                class="func_header">{% t 'administrators' %}:</span>
+                            {{ year.admini }} {% endif %}
+                        </div>
+                        <div class="zarzad_czlowiek">{% if year.pelnomocnicy != nil %}<span
+                                class="func_header">{% t 'plenipotentiaries' %}:</span>
+                            {{ year.pelnomocnicy }} {% endif %}
+                        </div>
                         <div class="zarzad_czlowiek">{% if year.biblioteka != nil %}<span
                                 class="func_header">{% t 'librarians' %}:</span>
                             {{ year.biblioteka }} {% endif %}
