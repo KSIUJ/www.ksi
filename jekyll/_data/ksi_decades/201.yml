@@ -58,5 +58,46 @@ years:
     vice:       Adam Piekarczyk, Dominika Zając
     skarbnik:   Tomasz Zub
     sekretarz:  Daniel Skowroński
-    gospodarz:  Patrycja Brzeska, Michał Kurzyiński
+    gospodarz:  Patrycja Brzeska, Michał Kurzyński
     rewizyjna:  Szymon Borak, Piotr Rytko
+  - year: 2016
+    header:
+    body:
+    zarzad_info: true
+    prezes:     Dominika Zając
+    vice:       Adam Piekarczyk, Wojciech Sabała
+    skarbnik:   Michał Herda
+    sekretarz:  Daniel Skowroński
+    gospodarz:  Michał Kurzyński, Tobiasz Porębski
+    rewizyjna:  Piotr Rytko, Tomasz Zub
+  - year: 2017
+    header:
+    body:
+    zarzad_info: true
+    prezes:     Dominika Zając
+    vice:       Adam Piekarczyk, Wojciech Sabała
+    skarbnik:   Szymon Smykała
+    sekretarz:  Adam Pardyl
+    gospodarz:  Michał Kawiecki, Jakub Kiermasz
+    rewizyjna:  Michał Herda, Krzysztof Hajto
+  - year: 2018
+    header:
+    body:
+    zarzad_info: true
+    prezes:     Adam Piekarczyk
+    vice:       Adam Pardyl, Wojciech Sabała
+    skarbnik:   Szymon Smykała
+    sekretarz:  Dominik Wołek
+    czlonkowie: Jakub Kiermasz, Mateusz Maćkowski
+    gospodarz:  Mateusz Gwóźdź, Łukasz Sereda
+    rewizyjna:  Michał Herda, Dominika Zając
+  - year: 2019
+    header:
+    body:
+    zarzad_info: true
+    prezes:     Dominik Wołek
+    vice:       Adam Pardyl
+    skarbnik:   Łukasz Sereda
+    czlonkowie: Mateusz Maćkowski, Elwira Zimoch
+    gospodarz:  Monika Mikuła, Mateusz Olszewski
+    rewizyjna:  Adam Piekarczyk, Wojciech Sabała, Jakub Kiermasz
