@@ -117,6 +117,7 @@ projects:
   deprecated-about: Deprecated/dissembled, but still interesting.
   mordor-about: Web application supporting our study material repository. Based on Spring Boot and written in Kotlin.
   erc-about: The Electronic Registration Center managing association memberships and member permissions is currently under rework.
+  informator-about: A newcomers guide to studying on the Faculty of Mathematics and Information Technologies of Jagiellonian University.
   gutenberg-about: Web printing application based on Django allowing quick and secure printer usage from web browser.
   ksilock-about: Electronic door lock system for our premises - open doors with your student ID card.
   cas-about: Central authentication for all KSI UJ web services.
