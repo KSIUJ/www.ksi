@@ -242,6 +242,10 @@ title: About KSI
                                 class="func_header">{% t 'housekeepers' %}:</span>
                             {{ year.gospodarz }} {% endif %}
                         </div>
+                        <div class="zarzad_czlowiek">{% if year.rewizyjna != nil %}<span
+                                class="func_header">{% t 'audit_committee' %}:</span>
+                            {{ year.rewizyjna }} {% endif %}
+                        </div>
                         {% endif %}
                     </div>
                     {% endfor %}
