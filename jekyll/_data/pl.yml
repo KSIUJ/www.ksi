@@ -116,7 +116,7 @@ projects:
   deprecated: Archiwalne projekty
   deprecated-about: Wyłączone/rozmontowane, ale nadal interesujące
   mordor-about: Aplikacja obsługująca repozytorium materiałów naukowych KSI. Bazuje na Spring Boot, napisana w Kotlinie.
-  erc-about: Elektroniczny Rejestr Członków, zarządzający uprawnieniami i statusem członków Koła jest aktualnie w przebudowie.
+  erc-about: Elektroniczny Rejestr Członków, zarządzający uprawnieniami i statusem członków Koła. Napisany przy użyciu Django oraz Vue.js.
   informator-about: Poradnik pomagający pierwszorocznym studentom zgłębić tajniki studiowania na naszym wydziale.
   gutenberg-about: Internetowa aplikacja bazująca na Django pozwalająca szybko i bezpiecznie drukować dokumenty z przeglądarki.
   ksilock-about: System zamków elektronicznych do pomieszczeń naszego Koła - otwórz drzwi legitymacją studencką.
