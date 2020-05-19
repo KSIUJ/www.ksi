@@ -96,6 +96,7 @@ events:
   corp_name: Lectures and workshops in cooperation with IT companies
   corp_desc: At KSI we understand the importance of cooperation between science and business.
   ksicamp: Specially for first year students we dedicate a series of weekend workshops, introducing them to programming, programmers' toolkit and team project development. Taking part in ksiCamp allows you to swiftly start your Computer Science studies and gives an opportunity to practice your newly acquired knowledge by solving real-world problems.
+  ksilearn: 'KSILearn is a series of weekly meetings for the members of KSI. The purpose is sharing knowledge and broadening horizons in the fields of Computer Science that are not part of the courses the students can take part in during their studies. So far, we have started courses about the following topics: Structure and Interpretation of Computer Programs, Category theory, Cracking the Coding Interview, and Programming in Python for beginners.'
   science_fests: Science festivals
   science_fests_desc: Popularization of computer science from an early age.
   mnn: Lesser Poland Researchers' Night

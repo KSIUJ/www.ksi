@@ -96,6 +96,7 @@ events:
   corp_name: Wykłady i warsztaty we współpracy z firmami IT
   corp_desc: W KSI rozumiemy jak ważna jest współpraca nauki z biznesem.
   ksicamp: Specjalnie dla studentów pierwszego roku KSI organizuje cykl weekendowych warsztatów wprowadzających do programowania, środowiska programisty i pracy w zespole. Udział w ksiCampie zapewnia gładkie wejście w studia informatyczne oraz pozwala przećwiczyć zdobytą na zajęciach wiedzę do rozwiązywania praktycznych problemów.
+  ksilearn: 'KSILearn to cotygodniowe spotkania członków Koła mające na celu dzielenie się wiedzą, poszerzanie horyzontów w dziedzinie informatyki oraz wzbudzanie zainteresowania tematami pozaprogramowymi. Do tej pory rozpoczęliśmy kursy o następujących tematach: Structure and Interpretation of Computer Programs, Teoria kategorii, Cracking the Coding Interview, oraz Programowanie w języku Python dla początkujących.'
   science_fests: Festiwale nauki
   science_fests_desc: Popularyzacja informatyki od najmłodszych lat.
   mnn: Małopolska Noc Naukowców
