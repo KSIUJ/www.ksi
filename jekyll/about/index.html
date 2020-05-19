@@ -192,23 +192,23 @@ title: About KSI
         <h2>{% t 'history' %}</h2>
 
         <div class="content">
-            {% assign decades_data = site.data.ksi_decades | sort %}
+            {% assign decades_data_raw = site.data.ksi_decades | sort | reverse %}
+            {% assign decades_data = decades_data_raw | where_exp: "item", "item contains 'name'" %}
 
             <div id="decade_navigator">
-                {% for decade_hash in decades_data %}
-                {% assign decade = decade_hash[1] %}
-                <div class="decade_link" id="decade_link_{{decade_hash.first}}">
-                    <a href="javascript:openDecade( {{ decade_hash.first }} )">{{ decade.name }}</a>
+                {% for decade in decades_data %}
+                <div class="decade_link" id="decade_link_{{decade.name}}">
+                    <a href="javascript:openDecade( '{{ decade.name }}' )">{{ decade.name }}</a>
                 </div>
                 {% endfor %}
             </div>
 
             <div id="decade_viewer">
-                {% for decade_hash in decades_data %}
-                {% assign decade = decade_hash[1] %}
-                <div class="decade" id="decade_{{decade_hash.first}}">
+                {% for decade in decades_data %}
+                <div class="decade" id="decade_{{decade.name}}">
                     <h1>{{ decade.name }}-{{ decade.name | plus:10 }}</h1>
-                    {% for year in decade.years %}
+                    {% assign years = decade.years | reverse %}
+                    {% for year in years %}
                     <div class="year" id="year_{{ year.year }}">
                         <h3>{{ year.year }}/{{ year.year | plus:1 }} {% if year.header != nil %}- {{ year.header
                             }}{% endif %}</h3>
