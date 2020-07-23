@@ -61,8 +61,8 @@ years:
     gospodarz:  Patrycja Brzeska, Michał Kurzyński
     rewizyjna:  Szymon Borak, Piotr Rytko
   - year: 2016
-    header:
-    body:
+    header: Zwyciężamy!
+    body: Nasi kołowicze zdobywali wiele osiągnięć takich jak: zwycięstwo na Startup Games Sosnowiec przez Adama Orlińskiego, wystąpienie  Michała “phoe” Herdy na European Lisp Symposium, czy zdobycie drugiego miejsca przez Michała Zielińskiego na Akademickich Mistrzostwach Polski w Programowaniu Zespołowym. Współpracowaliśmy z wieloma firmami. Uczestniczyliśmy w Google Hash Code, gościliśmy u siebie firmę Palantir. Organizowaliśmy serię wykładów z firmą AVSystem o następujących tematach: "Dojrzała Java", "Szybsze kodzenie w IntelliJ" i "Wielowątkowa apokalipsa C++" oraz "Lenistwo jest cnotą". Tradycyjnie już współorganizowaliśmy SFI oraz uczestniczyliśmy w Dniu Otwartym Uniwersytetu Jagiellońskiego i Dniu Wydziału.
     zarzad_info: true
     prezes:     Dominika Zając
     vice:       Adam Piekarczyk, Wojciech Sabała
@@ -71,8 +71,8 @@ years:
     gospodarz:  Michał Kurzyński, Tobiasz Porębski
     rewizyjna:  Piotr Rytko, Tomasz Zub
   - year: 2017
-    header:
-    body:
+    header: Ksi Talk is alive!
+    body: Rozpoczęliśmy serię spotkań Ksi Talk! Organizowaliśmy wiele wydarzeń takich jak Ksi Camp, warsztaty z Intel AI Academy, Solving Real-World Problems z Palantir oraz Git & Release management z firmą GE Digital, wykłady "Od prostej aplikacji do Facebooka" i "Loguj mądrze z Elastic Stackiem" z AVSystem oraz "Jak pisać dobry software w chmurze?" z Relativity. Współorganizowaliśmy Microsoft Tech Talk i tradycyjnie już SFI. Poza równie tradycyjnym uczestnictwem w Dniu Wydziału oraz Dniu Otwartym Uniwersytetu Jagiellońskiego byliśmy na Festiwalu Nauki i Sztuki w Krakowie oraz Targach Kół Naukowych, a także braliśmy udział w Google Hash Code i warsztatach "Expo & React Native" organizowanych przez Software Mansion. Gościliśmy również grupę studentów z Studievereniging Technische Informatica Rotterdam z Holandii.
     zarzad_info: true
     prezes:     Dominika Zając
     vice:       Adam Piekarczyk, Wojciech Sabała
