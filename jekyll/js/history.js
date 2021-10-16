@@ -27,5 +27,5 @@ function openDecade(id){
 }
 
 $(function(){
-  openDecade("2010");
+  openDecade("2020");
 });

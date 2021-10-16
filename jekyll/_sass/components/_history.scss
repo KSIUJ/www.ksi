@@ -24,7 +24,7 @@
 
 #decade_navigator {
   position: absolute;
-  width: 100px;
+  width: 50px;
 }
 
 .year_body {
@@ -32,8 +32,8 @@
   margin-bottom: 5px;
 }
 
-#decade_navigator {
-  width: 50px;
+#decade_viewer {
+  min-height: 450px;
 }
 
 @media (max-width: 800px) {
