@@ -5,7 +5,7 @@ plugins:
 - jekyll-language-plugin
 - jekyll-sitemap
 - jekyll-seo-tag
-- jekyll-picture-tag
+- jekyll_picture_tag
 - jekyll-paginate-v2
 
 language_data: data.%%
