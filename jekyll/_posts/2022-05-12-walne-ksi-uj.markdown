@@ -2,7 +2,7 @@
 layout:	post
 title:	Walne Zgromadzenie Członków
 date:	   2022-05-12 18:00:00
-post_img_url: /images/zebranie-walne.jpg
+post_img_url: /images/zebranie_walne.jpg
 language: pl
 ---
 Nadszedł czas na najważniejsze wydarzenie Kołowe w tym roku - Walne Zgromadzenie Członków. Odbędzie się ono 19 maja (czwartek) o godzinie 18:00 w Siedzibie Koła (1173).
