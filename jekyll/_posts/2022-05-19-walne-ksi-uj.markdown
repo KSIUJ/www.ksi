@@ -25,4 +25,4 @@ Po wzruszającym powspominaniu wydarzeń i wyjazdów z ostatniego roku przyszed�
 - Tomasz Miśkowicz (Członek Zarządu)
 - Franciszek Stachura (Członek Zarządu)
 
-Dziękujemy wszystkim gościom za przybycie, a w szczególności Adamowi Zydroniowi za wystąpienie w niezastąpionej roli sekretarza. Obiecujemy, że wszystkich Członków czeka kolejny dobry rok! 🎉
+Dziękujemy wszystkim gościom za przybycie, a w szczególności Adamowi Zydroniowi za wystąpienie w niezastąpionej roli Komisarza. Obiecujemy, że wszystkich Członków czeka kolejny dobry rok! 🎉
