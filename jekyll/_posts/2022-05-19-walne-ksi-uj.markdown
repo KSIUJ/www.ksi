@@ -15,6 +15,8 @@ Jak co roku, podczas spotkania pożegnaliśmy ustępujący Zarząd, który wygł
 - Karol Sygiet (Członek Zarządu)
 - Filip Szymeczko (Członek Zarządu)
 
+Podczas Zebrania padły również podziękowania dla niezastąpionych Członków naszego Koła, bez których jego życie nie byłoby takie samo. Mowa o roli Gospodarza, którą pełniła Monika Mikuła, która zawsze dbała o przekąski i napoje dla Członków Koła, jak i również o Sysadminach dbających o infrastrukturę sieciową Koła - w tej roli wystąpili Piotr Zieliński, Mikołaj Janusz oraz Jakub Parapura.
+
 Po wzruszającym powspominaniu wydarzeń i wyjazdów z ostatniego roku przyszedł czas na podjęcie decyzji o przyszłości Koła. Po zaciętej rywalizacji i skrupulatnym podliczeniu głosów przez Komisję Skrutacyjną wybrany został skład Zarządu na kadencję 22/23 w składzie:
 - Filip Szymeczko (Prezes)
 - Dominika Duda (Wiceprezes)
