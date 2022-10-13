@@ -1,0 +1,14 @@
+---
+layout:	post
+title: Spotkanie z firmą Allegro - Machine Learning
+date: 2022-10-13 10:00:00
+post_img_url: /images/mlr.png
+language: pl
+---
+💻 W czwartek (13 października) o 16:15 odbędzie się seminarium zorganizowane przez grupę Machine Learning Research @ Allegro. 
+Temat prezentacji:
+
+Retrieval at Scale. Machine Learning Research @ Allegro
+Użytkownicy Allegro każdego dnia przeszukują katalog 250M ofert, wysyłając ponad 20M zapytań do wyszukiwarki. Opowiemy Wam o tym, jak uczenie maszynowe pomaga im znaleźć to, czego potrzebują, na przykładzie karuzeli rekomendacji, wyszukiwarki obrazkowej i rankingu wyników wyszukiwarki tekstowej.
+
+Zapraszamy do siedziby KSI (sala 1173), a po evencie zapraszamy na pizzę, networking oraz integrację.
