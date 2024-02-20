@@ -1,0 +1,15 @@
+---
+layout:	post
+title: Zapraszamy na Walne Zgromadzenie Członków
+date: 2023-05-19 10:00:00
+post_img_url: /images/zebranie_walne.jpg
+language: pl
+---
+W siedzibie KSI, 29.05 (poniedziałek) o godzinie 17:30 odbędzie się Zwyczajne Walne Zgromadzenie Członków. Planowane punkty porządku obrad przedstawiają się następująco:
+
+* Sprawozdanie Zarządu, podsumowanie roku
+* Sprawozdanie/Raport Komisji Rewizyjnej
+* Wybór Prezesa Koła (wraz ze składem przyszłego Zarządu Koła)
+* Wybór Komisji Rewizyjnej
+* Powołanie nowych Członków Honorowych
+
