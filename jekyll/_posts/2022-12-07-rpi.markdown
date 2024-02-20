@@ -1,0 +1,16 @@
+---
+layout:	post
+title: Warsztaty z programowania Raspberry Pi Pico
+date: 2022-12-07 10:00:00
+post_img_url: /images/rpi-pico.png
+language: pl
+---
+Zapraszamy na warsztaty z programowania Raspberry Pi Pico!  
+📅 10.12 (TA SOBOTA)  
+🕐 14:00 - 18:00  
+🔽 KSI, 1173  
+
+Planujemy bardzo luźny warsztat, będzie można pobawić się różnymi czujnikami i coś samemu zrobić. Cały sprzęt zostanie w KSI, więc będzie można kontynuować pracę po warsztatach.
+
+Zapisy: lista na stole przy wejściu do sali 1173  
+Liczba Raspberry Pi ograniczona!
