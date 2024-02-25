@@ -97,9 +97,11 @@ events:
   title: Events
   sfi_name: SFI Academic IT Festival
   sfi_text: An international IT conference organized by students, for students. Since 2005, in cooperation with students' associations from 3 other Krakow universities and academies, every year we invite lecturers from all over the world. The list of our former speakers includes Andrew S. Tanenbaum, Thomas Cormen, Larry Wall, Richard Stallman and Kevin Warwick. During the three days of conference dozens of lectures and workshops take place, that attract attention of several thousands of participants every year. Financially speaking, it is absolutely free. The only ticket you will ever need is passion and interest.
-  ksitalk: ksiTalk is our monthly student seminar. The purpose of regular meetings is sharing knowledge, broadening horizons in the field of Computer Science and polishing rhetorical skills necessary in scientific career. On every seminar a lecture is conducted by an invited researcher, as to let students establish closer contact with science and potentially begin scientific collaboration. Afterwards at least two members of KSI present their own science projects, interesting issues or thought-provoking science papers.
+  ksitalk: ksiTalk is our student seminar. The purpose of regular meetings is sharing knowledge, broadening horizons in the field of Computer Science and polishing rhetorical skills necessary in scientific career. On every seminar a lecture is conducted by an invited researcher, as to let students establish closer contact with science and potentially begin scientific collaboration. Afterwards at least two members of KSI present their own science projects, interesting issues or thought-provoking science papers.
   corp_name: Lectures and workshops in cooperation with IT companies
   corp_desc: At KSI we understand the importance of cooperation between science and business.
+  ksin: KSI<sup>n</sup> is a yearly scientific conference, during which each participant gives a short talk about a selected topic related to IT. It's a great way to expand your knowledge about IT and, of course, integrate with other Club Members. The conference is organized in May.
+  workshops: We organize workshops on various topics - programming games for VR, embedded devices, graphic design, CV...
   ksicamp: Specially for first year students we dedicate a series of weekend workshops, introducing them to programming, programmers' toolkit and team project development. Taking part in ksiCamp allows you to swiftly start your Computer Science studies and gives an opportunity to practice your newly acquired knowledge by solving real-world problems.
   ksilearn: 'KSILearn is a series of weekly meetings for the members of KSI. The purpose is sharing knowledge and broadening horizons in the fields of Computer Science that are not part of the courses the students can take part in during their studies. So far, we have started courses about the following topics: Structure and Interpretation of Computer Programs, Category theory, Cracking the Coding Interview, and Programming in Python for beginners.'
   science_fests: Science festivals
@@ -108,6 +110,8 @@ events:
   mnn_desc: Game design workshop for children
   fnis: Science and Arts Festival in Krakow
   fnis_desc: KSI tent on the Main Market Square in Krakow
+  dw: Faculty Day
+  dw_desc: Raspberry Pi Pico Programming Workshops
   social_events: Social events
   social_events_desc: From the spring KSIbbq party to attending the Faculty Ball.
   co_op: Organize events with KSI UJ
@@ -130,7 +134,7 @@ projects:
   cas-about: Central authentication for all KSI UJ web services.
   arda-about: Our main server and base for other projects.
   3dprinter: 3D printer
-  3dprinter-about: Prusa i3 built by KSI. Unfortunately it broke some time ago.
+  3dprinter-about: "Prusa i3 built by KSI. Unfortunately it broke some time ago. UPDATE: in October of 2023 we received a new unit from the Faculty!"
   cluster: Computational cluster
   cluster-about: What you can do with a bunch of old machines? Build an experimental computer cluster!
   ksicianka-about: Legends say that it still can be found somewhere in the association HQ - the official KSI card game - started, but never finished.

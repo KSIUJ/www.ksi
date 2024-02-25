@@ -24,6 +24,16 @@ subset: events
         <p>{% t 'corp_desc' %}</p>
         <section class="features">
             <article>
+                {% picture halfpage images/events/estimathon.jpg --parent class="image" %}
+                <h3 class="major">Jane Street</h3>
+                <p>Jane Street - Estimathon</p>
+            </article>
+            <article>
+                {% picture halfpage images/events/allegro.jpg --parent class="image" %}
+                <h3 class="major">Allegro</h3>
+                <p>Allegro - Retrieval at Scale</p>
+            </article>
+            <article>
                 {% picture halfpage images/events/google.jpg --parent class="image" %}
                 <h3 class="major">Google</h3>
                 <p>Google Tech Talk on Borg</p>
@@ -61,6 +71,11 @@ subset: events
         <p>{% t 'science_fests_desc' %}</p>
         <section class="features">
             <article>
+                {% picture halfpage images/events/dw.jpg --parent class="image" %}
+                <h3 class="major">{% t 'dw' %}</h3>
+                <p>{% t 'dw_desc' %}</p>
+            </article>
+            <article>
                 {% picture halfpage images/events/mnn.jpg --parent class="image" %}
                 <h3 class="major">{% t 'mnn' %}</h3>
                 <p>{% t 'mnn_desc' %}</p>
@@ -71,6 +86,24 @@ subset: events
                 <p>{% t 'fnis_desc' %}</p>
             </article>
         </section>
+    </div>
+</section>
+<section class="wrapper spotlight style1 alt">
+    <div class="inner">
+        {% picture logo images/events/ksin.jpg --parent class="image alt" %}
+        <div class="content">
+            <h2 class="major">KSI<sup>n</sup></h2>
+            <p>{% t 'ksin' %}</p>
+        </div>
+    </div>
+</section>
+<section class="wrapper spotlight style3">
+    <div class="inner">
+        {% picture logo images/events/workshops.jpg --parent class="image alt" %}
+        <div class="content">
+            <h2 class="major">Workshops</h2>
+            <p>{% t 'workshops' %}</p>
+        </div>
     </div>
 </section>
 <section class="wrapper spotlight style1 alt">
