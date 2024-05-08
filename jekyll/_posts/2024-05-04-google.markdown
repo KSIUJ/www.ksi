@@ -1,0 +1,24 @@
+---
+layout: halfpage
+title: Google - Tech talk on Workload Autoscaling on a planet-scale computer
+date: 2024-05-04 16:00
+post_img_url: /images/google-2024.png
+language: pl
+---
+
+📣 Dołącz do nas i przedstawicieli firmy Google na wydarzeniu, które odbędzie się już w przyszłym tygodniu!
+  
+Tytuł: Tech talk on Workload Autoscaling on a planet-scale computer  
+🗓 14 maja 2024  
+⏰ 17:00  
+📌 0004, WMiI
+  
+Po wykładzie będzie czas na networking.  
+Będą dla Ciebie ciekawe gadżety z motywem Google!  
+(psst, będzie też pizza! 🍕)
+  
+Jeżeli planujesz się pojawić, prosimy o wypełnienie ankiety.  
+👉 [https://goo.gle/UJ052024](https://goo.gle/UJ052024)
+  
+Wypełnienie ankiety nie jest konieczne, natomiast pomoże nam oszacować ile osób pojawi się na wykładzie.
+
